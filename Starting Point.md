@@ -1,3 +1,6 @@
+[[Deadlines]]
+
+
 Hopefully that's all useful - I think a good input for our catch up discussion next week will be some of your first thoughts on what you would like the project to cover and it's main implementation activity with the mark scheme in mind (core components plus some extensions) and a rough description of how the experiments you will need might be conducted. 
 
 ---
@@ -14,6 +17,9 @@ ALSO FULL Proposal
 
 Basically dissertation has to demonstrate I have a range of CS skills, planning skills and design /quality, show an understanding of context of project,  justify suitable tools, i.e. programming langs and data structures, show I can learn new ones. Plan and organise presentation of evidence – end result behaves as intended.
 
+i.e. tools and algorithms include BLE?
+
+
 [[Proposal Draft (100 words)]]100 word outline of project idea:
 
 Need a sound understanding of proposal w out being too ambitious
@@ -22,4 +28,7 @@ Need a sound understanding of proposal w out being too ambitious
 
 https://www.cl.cam.ac.uk/teaching/projects/pinkbook.pdf Pink book!
 ## Questions to ask Ramsey:
-open beacon? They do not sh
+-  open beacon? They do not cycle ids. Also resource requirements
+
+-  Does the marks scheme mean by strucutred design and evaluation approach
+- 

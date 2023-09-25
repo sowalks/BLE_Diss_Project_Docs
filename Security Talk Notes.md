@@ -1,0 +1,6 @@
+The paper is available here: [https://eprint.iacr.org/2023/1332.pdf](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Feprint.iacr.org%2F2023%2F1332.pdf&data=05%7C01%7Csmw98%40universityofcambridgecloud.onmicrosoft.com%7C57bc7135c0454f6efd7c08dbbd9911e8%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638312237351566719%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f3tYc9gyiqnVt3ku%2BcbR6LocX7mnV546Jum%2F1wwJ5%2FI%3D&reserved=0 "Original URL: https://eprint.iacr.org/2023/1332.pdf. Click or tap if you trust this link.")  
+  
+We will be meeting virtually via Google Meets on Wednesday at 10am as usual. Please use the following link: [https://meet.google.com/ydi-bujr-zbc](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmeet.google.com%2Fydi-bujr-zbc&data=05%7C01%7Csmw98%40universityofcambridgecloud.onmicrosoft.com%7C57bc7135c0454f6efd7c08dbbd9911e8%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638312237351566719%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=s2%2FeWNs4jKiUhQSfjQuryDnjH%2Bjj2N8l%2B9fU0NZWl5E%3D&reserved=0 "Original URL: https://meet.google.com/ydi-bujr-zbc. Click or tap if you trust this link.")  
+  
+See you on Wednesday,  
+Daniel

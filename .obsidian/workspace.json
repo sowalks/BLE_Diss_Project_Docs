@@ -20,15 +20,23 @@
             }
           },
           {
-            "id": "614c63902bed2a86",
+            "id": "198deee52c3b5a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Sections/Success Criteria.md",
+                "file": "Notes on Ramsey Papers.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "655cc4042076ec62",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -42,8 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "614c63902bed2a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal/Sections/Success Criteria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -109,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting Point.md",
+                "file": "Notes on Ramsey Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting Point.md",
+                "file": "Notes on Ramsey Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting Point.md"
+                "file": "Notes on Ramsey Papers.md"
               }
             }
           }
@@ -170,17 +192,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e10a4043c3b91b4",
+  "active": "198deee52c3b5a90",
   "lastOpenFiles": [
-    "Proposal/Proposal Big Draft.md",
-    "Deadlines.md",
-    "Proposal/Sections/Success Criteria.md",
-    "Proposal/Sections/Timetable.md",
+    "Pasted image 20230925170804.png",
+    "Pasted image 20230925170515.png",
+    "Pasted image 20230925170436.png",
+    "Pasted image 20230925170021.png",
+    "Pasted image 20230925165630.png",
+    "Ramsey Email.md",
     "Starting Point.md",
-    "Proposal/Sections/Resource Requirements.md",
-    "Proposal/Sections/Core Deliverables.md",
+    "Security Talk Notes.md",
+    "Notes on Ramsey Papers.md",
     "Proposal/Final Proposal.md",
     "Proposal/Proposal Draft (100 words).md",
+    "Proposal/Sections/Timetable.md",
+    "Proposal/Sections/Resource Requirements.md",
+    "Proposal/Sections/Ethics committee.md",
+    "Proposal/Sections/Core Deliverables.md",
+    "Deadlines.md",
+    "Proposal/Proposal Big Draft.md",
+    "Proposal/Sections/Success Criteria.md",
     "Proposal/Sections",
     "Proposal",
     "BLE Diss Project",
