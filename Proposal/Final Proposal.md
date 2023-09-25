@@ -1,5 +1,5 @@
 [[Core Deliverables]]
-[[Timetable]]
 [[Success Criteria]]
+[[Timetable]]
 [[Resource Requirements]]
 [[Proposal Big Draft]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Sections/Success Criteria.md",
+                "file": "Starting Point.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Sections/Timetable.md",
+                "file": "Proposal/Sections/Success Criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal/Sections/Success Criteria.md",
+                "file": "Starting Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal/Sections/Success Criteria.md",
+                "file": "Starting Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal/Sections/Success Criteria.md"
+                "file": "Starting Point.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "2e10a4043c3b91b4",
   "lastOpenFiles": [
-    "Proposal/Sections/Timetable.md",
+    "Proposal/Proposal Big Draft.md",
     "Deadlines.md",
+    "Proposal/Sections/Success Criteria.md",
+    "Proposal/Sections/Timetable.md",
     "Starting Point.md",
     "Proposal/Sections/Resource Requirements.md",
     "Proposal/Sections/Core Deliverables.md",
-    "Proposal/Proposal Big Draft.md",
     "Proposal/Final Proposal.md",
     "Proposal/Proposal Draft (100 words).md",
-    "Proposal/Sections/Success Criteria.md",
     "Proposal/Sections",
     "Proposal",
     "BLE Diss Project",

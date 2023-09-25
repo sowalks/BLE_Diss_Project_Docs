@@ -20,6 +20,6 @@ Need a sound understanding of proposal w out being too ambitious
 
 [[Final Proposal]]Project resources: tags, server?, android phones, etc
 
-
+https://www.cl.cam.ac.uk/teaching/projects/pinkbook.pdf Pink book!
 ## Questions to ask Ramsey:
 open beacon? They do not sh
