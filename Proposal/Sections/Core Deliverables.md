@@ -1,0 +1,3 @@
+The name and contact details (including email address) of the person in charge of the resource must be stated and their signature must be present on the project cover sheet. Resources from third parties can sometimes disappear unexpectedly, so please state why you believe this is not going to happen or else state your contingency plan in case it does.
+
+Contingency plan buy my own! In the case of projects that rely on support from outside the University it will be necessary to procure a letter from the sponsors that confirms both that their equipment will remain available right up to the end of the academic year and that they understand that the results of work done by students cannot be viewed as secret or proprietary.
