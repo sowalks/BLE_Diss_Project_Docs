@@ -15,7 +15,11 @@ Don't forget, feel free to ask any questions along the way before we catch up ag
 
 ALSO FULL Proposal
 
-Basically dissertation has to demonstrate I have a range of CS skills, planning skills and design /quality, show an understanding of context of project,  justify suitable tools, i.e. programming langs and data structures, show I can learn new ones. Plan and organise presentation of evidence – end result behaves as intended.
+Basically dissertation has to demonstrate:
+- I have a range of CS skills, planning skills and design /quality,
+- show an understanding of context of project,  [[Notes on Ramsey Papers]]
+- justify suitable tools, i.e. programming langs and data structures, show I can learn new ones. 
+- Plan and organise presentation of evidence – end result behaves as intended.
 
 i.e. tools and algorithms include BLE?
 
@@ -27,8 +31,11 @@ Need a sound understanding of proposal w out being too ambitious
 [[Final Proposal]]Project resources: tags, server?, android phones, etc
 
 https://www.cl.cam.ac.uk/teaching/projects/pinkbook.pdf Pink book!
+
+Do I need ethics committee [[Ethics committee]]  - look into it
 ## Questions to ask Ramsey:
 -  open beacon? They do not cycle ids. Also resource requirements
 
 -  Does the marks scheme mean by strucutred design and evaluation approach
+-  Should i include more complex feature modelling like Rayleigh [[Notes on Ramsey Papers#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
 - 

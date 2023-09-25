@@ -55,7 +55,7 @@ And a talk I gave on what all this meant for COVID contact tracing apps - which 
 
   
 
-Hopefully that's all useful - I think a good input for our catch up discussion next week will be some of your first thoughts on what you would like the project to cover and it's main implementation activity with the mark scheme in mind (core components plus some extensions) and a rough description of how the experiments you will need might be conducted. 
+Hopefully that's all useful - I think a good input for our catch up discussion next week will be some of your first thoughts on what you would like the project to cover [[Proposal Draft (100 words)]]and it's main implementation activity with the mark scheme in mind (core components plus some extensions)[[Core Deliverables]] and a rough description of how the experiments you will need might be conducted. [[Ethics committee]]
 
   
 

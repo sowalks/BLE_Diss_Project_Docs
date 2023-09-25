@@ -11,12 +11,8 @@
             "id": "c86bbd59008344f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on Ramsey Papers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on Ramsey Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on Ramsey Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes on Ramsey Papers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,28 +140,29 @@
   },
   "active": "c86bbd59008344f7",
   "lastOpenFiles": [
-    "Images/Pasted image 20230925172843.png",
-    "Images/Pasted image 20230925172114.png",
-    "Images/Pasted image 20230925172020.png",
-    "Images/Pasted image 20230925171502.png",
-    "Ramsey Email.md",
+    "Notes on Ramsey Papers.md",
+    "Proposal/Sections/Core Deliverables.md",
     "Starting Point.md",
     "Security Talk Notes.md",
-    "Images",
+    "Ramsey Email.md",
+    "Images/Pasted image 20230925211431.png",
+    "Images/Pasted image 20230925211404.png",
+    "Images/Pasted image 20230925211135.png",
+    "Images/Pasted image 20230925210949.png",
     "Proposal/Sections/Success Criteria.md",
+    "Images/Pasted image 20230925210619.png",
+    "Images/Pasted image 20230925210358.png",
+    "Images/Pasted image 20230925204327.png",
+    "Images/Pasted image 20230925204010.png",
+    "Images/Pasted image 20230925203749.png",
+    "Images/Pasted image 20230925203639.png",
+    "Images",
     "Deadlines.md",
-    "Notes on Ramsey Papers.md",
-    "Images/Pasted image 20230925170804.png",
-    "Images/Pasted image 20230925170515.png",
-    "Images/Pasted image 20230925170436.png",
-    "Images/Pasted image 20230925170021.png",
-    "Images/Pasted image 20230925165630.png",
     "Proposal/Final Proposal.md",
     "Proposal/Proposal Draft (100 words).md",
     "Proposal/Sections/Timetable.md",
     "Proposal/Sections/Resource Requirements.md",
     "Proposal/Sections/Ethics committee.md",
-    "Proposal/Sections/Core Deliverables.md",
     "Proposal/Proposal Big Draft.md",
     "Proposal/Sections",
     "Proposal",
