@@ -8,12 +8,16 @@ amounts of effort involved in each
 
 Core deliverable could include using a simple median to  detect distance and noise for sampling rate + get rid of spurious highs - based on 3 channels
 need tag to signal over 3 channels
-- however an extension could be to use strong detection methods for distance to improve accuracy  i.e. rayleigh or other methods that have been used by the NHS etc in [[Notes on Ramsey Papers#Covid Talk]]
+- however an extension could be to use strong detection methods for distance to improve accuracy  i.e. rayleigh or other methods that have been used by the NHS etc in [[COVID Talk#Covid Talk]]
 
 
 ## Core Deliverables
 ### App
-### Inhibitor Tag
+https://stackoverflow.com/questions/60317899/altbeacon-detection-of-beacon-rssi-values-continuously-at-10hz
+
+### Inhibitor Tag 
+
+how does this work??
 
 ### Web Server
 

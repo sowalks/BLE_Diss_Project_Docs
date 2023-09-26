@@ -17,7 +17,7 @@ ALSO FULL Proposal
 
 Basically dissertation has to demonstrate:
 - I have a range of CS skills, planning skills and design /quality,
-- show an understanding of context of project,  [[Notes on Ramsey Papers]]
+- show an understanding of context of project,  [[COVID Talk]]
 - justify suitable tools, i.e. programming langs and data structures, show I can learn new ones. 
 - Plan and organise presentation of evidence – end result behaves as intended.
 
@@ -37,5 +37,5 @@ Do I need ethics committee [[Ethics committee]]  - look into it
 -  open beacon? They do not cycle ids. Also resource requirements
 
 -  Does the marks scheme mean by strucutred design and evaluation approach
--  Should i include more complex feature modelling like Rayleigh [[Notes on Ramsey Papers#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
+-  Should i include more complex feature modelling like Rayleigh [[COVID Talk#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
 - 

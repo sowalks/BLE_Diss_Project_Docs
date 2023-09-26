@@ -18,7 +18,7 @@ You will find through Googling some typical BLE tags providers like Tile and Chi
 |---|
 |[About the OpenBeacon project – Bluetooth LE Tracking – Active 2.4 GHz RFID tracking](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.openbeacon.org%2Fabout.html&data=05%7C01%7Csmw98%40cam.ac.uk%7C332558933e164068f76c08dbbce3853e%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638311457592128726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=NX4ktvI43x%2BcNrCFocBxhKMhthQ8e4CYpi2demZpP3Q%3D&reserved=0 "Original URL: https://www.openbeacon.org/about.html. Click or tap if you trust this link.")<br><br>Active 2.4 GHz RFID tracking<br><br>[www.openbeacon.org](http://www.openbeacon.org)|
 
-  
+  https://docs.silabs.com/bluetooth/2.13/code-examples/applications/bluetooth-device-tracking-with-tile
 
 We will want to find some tags that definitely don't cycle their ID //open beacon// , and you might want to design your experiments such that we source tags with selectable ID broadcast rates // ones where we have to chose//. Markus mentioned a previous piece of work in the lab recently that used BLE - perhaps there are some lab tags we can make use of in addition to any extras that FocalPoint buys for the project
 
@@ -30,7 +30,7 @@ There are many apps that can be used to log BLE encounters, as I mentioned you m
 
 The papers I mentioned of mine that highlight just how scruffy a BLE measurement is are here:
 
-[[Notes on Ramsey Papers]]
+[[COVID Talk]]
 
 [https://drive.google.com/file/d/1zQI3U3dHXRUznasTGAJCUlAYLqaACqHh/view](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1zQI3U3dHXRUznasTGAJCUlAYLqaACqHh%2Fview&data=05%7C01%7Csmw98%40cam.ac.uk%7C332558933e164068f76c08dbbce3853e%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638311457592128726%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=urdmNg5aNixCB0lhgvaofwikVrQxoZZWeNieb4ah4wo%3D&reserved=0 "Original URL: https://drive.google.com/file/d/1zQI3U3dHXRUznasTGAJCUlAYLqaACqHh/view. Click or tap if you trust this link.")  
 

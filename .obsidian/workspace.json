@@ -11,8 +11,12 @@
             "id": "c86bbd59008344f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md"
+              }
             }
           }
         ]
@@ -140,11 +149,20 @@
   },
   "active": "c86bbd59008344f7",
   "lastOpenFiles": [
-    "Notes on Ramsey Papers.md",
     "Proposal/Sections/Core Deliverables.md",
+    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+    "Ramsey Email.md",
+    "Images/Pasted image 20230926112042.png",
+    "Images/Pasted image 20230926110455.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Images/Pasted image 20230926105307.png",
+    "2023-09-26.md",
+    "Notes on Ramsey Papers/COVID Talk.md",
+    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
+    "Notes on Ramsey Papers",
     "Starting Point.md",
     "Security Talk Notes.md",
-    "Ramsey Email.md",
     "Images/Pasted image 20230925211431.png",
     "Images/Pasted image 20230925211404.png",
     "Images/Pasted image 20230925211135.png",
@@ -153,9 +171,6 @@
     "Images/Pasted image 20230925210619.png",
     "Images/Pasted image 20230925210358.png",
     "Images/Pasted image 20230925204327.png",
-    "Images/Pasted image 20230925204010.png",
-    "Images/Pasted image 20230925203749.png",
-    "Images/Pasted image 20230925203639.png",
     "Images",
     "Deadlines.md",
     "Proposal/Final Proposal.md",
