@@ -38,4 +38,7 @@ Do I need ethics committee [[Ethics committee]]  - look into it
 
 -  Does the marks scheme mean by strucutred design and evaluation approach
 -  Should i include more complex feature modelling like Rayleigh [[COVID Talk#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
-- 
+-   [[Location FingerPrinting With Bluetooth Low Energy Beacons]]  what is dBm?
+- Also what the FUCK is a gaussian kernel.
+- epoch? posterior? what are these measurements a what do they do?
+-

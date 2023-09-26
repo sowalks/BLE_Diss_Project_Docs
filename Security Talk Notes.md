@@ -4,3 +4,5 @@ We will be meeting virtually via Google Meets on Wednesday at 10am as usual. Ple
   
 See you on Wednesday,  
 Daniel
+
+
