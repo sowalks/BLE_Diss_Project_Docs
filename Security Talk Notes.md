@@ -5,4 +5,57 @@ We will be meeting virtually via Google Meets on Wednesday at 10am as usual. Ple
 See you on Wednesday,  
 Daniel
 
+# Abuse-Resistant Location Tracking
+
+In this work we show how to achieve an improved trade-off between user privacy and stalker detection
+within the constraints of existing tracking protocols. We implement our new protocol using families of
+list-decodable error-correcting codes, and give efficient algorithms for stalker detection under realistic
+conditions.
+
+OOOO
+
+[[Motivation]] These devices have been used in hundreds of criminal incidents, including
+serious cases that culminated in physical assault and murder [8, 49, 23,
+
+
+changes to anonymize and deanonymize
+
+![[Pasted image 20230926154058.png]]
+
+
+![[Pasted image 20230926154417.png]]
+
+![[Pasted image 20230926154955.png]]
+
+
+https://petsymposium.org/popets/2023/popets-2023-0006.pdf
+
+
+
+air tag attack by reflashing sending blobs - probably signed but attacked
+
+PHONE HAS TO VERIFY THIS FROM ACTUAL TAG - STOP HARDWARE ATTACKS NON TRIVIAL
+
+
+phone hardware tags w/o correct protocol.
+Neeed to not respond to verified tags
+
+
+need to look up symmetric key publically etc
+
+just assume existance of trustworthy pki- lol!!!
+
+other servers natural pki 
+
+off load payload to pki 
+remove everything suspicious
+
+
+airtag do not have data connection of their own
+
+test anonymously that you are part of a set
+
+
+assassins is of interest!!
+
 

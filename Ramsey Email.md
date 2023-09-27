@@ -4,11 +4,12 @@ Here are some materials that could be useful in your prep:
 
   
 
-we will need sources of bluetooth "advertising messages" that have a fixed ID - Airtags intentionally cycle these undeterministically (for us) so we will need other sources.
+## we will need sources of bluetooth "advertising messages" that have a fixed ID - Airtags intentionally cycle these undeterministically (for us) so we will need other sources.
 
   
 
-Bluetooth Low Energy (BLE) is the tech used in tracking tags, but older bluetooth devices also advertise their existence for pairing, albeit it a much lower rate (i.e. my reference to fixed infrastructure like TVs and other devices in the lab that we might see on bluetooth scans)
+Bluetooth Low Energy (BLE) is the tech used in tracking tags,
+but older bluetooth devices also advertise their existence for pairing, albeit it a much lower rate (i.e. my reference to fixed infrastructure like TVs and other devices in the lab that we might see on bluetooth scans)
 
   
 
@@ -24,7 +25,11 @@ We will want to find some tags that definitely don't cycle their ID //open beaco
 
   
 
-There are many apps that can be used to log BLE encounters, as I mentioned you might want to look into an open source one you can adapt, or simply build your own, building a very simple BLE scanning app that just dumps interesting stuff from Android listeners on BLE, GPS and maybe some other sensors too into a csv file will not take very long. I will check this week on getting a few Android phones provided for the testing. Android phones can also beacon as a pretend BLE tag as well as listen out for BLE tags so that will likely come in handy on the project
+### There are many apps that can be used to log BLE encounters, as I mentioned you might want to look into an open source one you can adapt, or simply build your own, building a very simple BLE scanning app that just dumps interesting stuff from Android listeners on BLE, GPS and maybe some other sensors too into a csv file will not take very long.
+
+
+
+### I will check this week on getting a few Android phones provided for the testing. Android phones can also beacon as a pretend BLE tag as well as listen out for BLE tags so that will likely come in handy on the project
 
   
 
@@ -41,7 +46,7 @@ The papers I mentioned of mine that highlight just how scruffy a BLE measurement
 
   
 
-And a talk I gave on what all this meant for COVID contact tracing apps - which covers the same sort of issues that will be in play here for the inhibitor tags on scan rates and probabilities of missed scans etc - an inhibitor tag and tracker tag being correctly or incorrectly "co-located" is the same problem family as two phones being within 2m of each other for 2minutes in the covid era of contact tracing. The great thing for our project is that simply " any detection at all" of a tag is needed (binary decisions), whereas for contact tracing there was the need to determine the range between phones too (within 2m or not)
+### And a talk I gave on what all this meant for COVID contact tracing apps - which covers the same sort of issues that will be in play here for the inhibitor tags on scan rates and probabilities of missed scans etc - an inhibitor tag and tracker tag being correctly or incorrectly "co-located" is the same problem family as two phones being within 2m of each other for 2minutes in the covid era of contact tracing. The great thing for our project is that simply " any detection at all" of a tag is needed (binary decisions), whereas for contact tracing there was the need to determine the range between phones too (within 2m or not)
 
   
 

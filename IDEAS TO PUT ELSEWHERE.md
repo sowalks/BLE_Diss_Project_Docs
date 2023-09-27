@@ -24,3 +24,4 @@ many parameters to consider, including:
 WE CAN USE THESE FOR INHIBITOR TAG SOME OF AT LEAST
 
 https://www.researchgate.net/publication/334590931_Tracking_Anonymized_Bluetooth_Devices/fulltext/5d3308db92851cd04675a469/Tracking-Anonymized-Bluetooth-Devices.pdf
+

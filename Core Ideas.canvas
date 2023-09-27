@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"053f1842a3052f87","type":"file","file":"Notes on Ramsey Papers/COVID Talk.md","x":240,"y":-120,"width":400,"height":400},
+		{"id":"bbbe665a66cb702b","type":"file","file":"Starting Point.md","x":400,"y":500,"width":400,"height":400},
+		{"id":"e2dd28d4ab79ece8","type":"text","text":"","x":622,"y":159,"width":250,"height":60},
+		{"id":"30052e8ade3c05af","type":"file","file":"Ramsey Email.md","x":-140,"y":0,"width":480,"height":400},
+		{"id":"7a2baed4f77c9f7e","type":"text","text":"Hoe should project proposal fist be structured\n\nWhat where wht when etc\n\nanswers main questions\nWhen, where, what, who, why","x":-109,"y":616,"width":250,"height":60},
+		{"id":"3f065c1e39f17d8e","type":"file","file":"Proposal/Sections/Core Deliverables.md","x":-980,"y":60,"width":680,"height":840},
+		{"id":"10e6a36b8be2d7ee","type":"text","text":"Inhibition works ","x":-140,"y":780,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1a8caa73519513ea","fromNode":"10e6a36b8be2d7ee","fromSide":"left","toNode":"3f065c1e39f17d8e","toSide":"right"}
+	]
+}

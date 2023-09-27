@@ -35,10 +35,17 @@ https://www.cl.cam.ac.uk/teaching/projects/pinkbook.pdf Pink book!
 Do I need ethics committee [[Ethics committee]]  - look into it
 ## Questions to ask Ramsey:
 -  open beacon? They do not cycle ids. Also resource requirements
-
+- How to evaluate
 -  Does the marks scheme mean by strucutred design and evaluation approach
 -  Should i include more complex feature modelling like Rayleigh [[COVID Talk#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
 -   [[Location FingerPrinting With Bluetooth Low Energy Beacons]]  what is dBm?
 - Also what the FUCK is a gaussian kernel.
 - epoch? posterior? what are these measurements a what do they do?
--
+- is an appropriate extensiton the complex modelling features
+- other extebsuibs etc
+What experiments should be used??
+
+- how did you do the simulations in the sensors, would it be feasible to recreate as an extension, or should we focus on simulations and extension is to carry out an experiment?
+- 
+- What is Professional Practice and Presentation, advice on meeting it?
+- How much should i knoow rn - what can i move to prep time- i.e. working out what things are wher

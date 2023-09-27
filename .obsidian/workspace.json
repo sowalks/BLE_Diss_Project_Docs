@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7360b1a268d8ad06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Talk Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31db5f98f9bb675b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEAS TO PUT ELSEWHERE.md",
+                "file": "Starting Point.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Talk Notes.md",
+                "file": "Starting Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Talk Notes.md",
+                "file": "Starting Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Talk Notes.md"
+                "file": "Starting Point.md"
               }
             }
           }
@@ -158,34 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7360b1a268d8ad06",
+  "active": "31db5f98f9bb675b",
   "lastOpenFiles": [
-    "IDEAS TO PUT ELSEWHERE.md",
+    "Deadlines.md",
+    "Core Ideas.canvas",
+    "Notes on Ramsey Papers/COVID Talk.md",
+    "Proposal/Sections/Core Deliverables.md",
     "Security Talk Notes.md",
+    "Starting Point.md",
+    "Ramsey Email.md",
+    "Motivation.md",
+    "IDEAS TO PUT ELSEWHERE.md",
+    "Images/Pasted image 20230926154955.png",
+    "Images/Pasted image 20230926154417.png",
+    "Images/Pasted image 20230926154058.png",
+    "2023-09-26.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Images/Pasted image 20230926150518.png",
     "Images/Pasted image 20230926150354.png",
-    "Starting Point.md",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-    "Notes on Ramsey Papers/COVID Talk.md",
     "Images/Pasted image 20230926143734.png",
     "Images/Pasted image 20230926143524.png",
     "Images/Pasted image 20230926143046.png",
     "Images/Pasted image 20230926142947.png",
     "Images/Pasted image 20230926140934.png",
-    "Images/Pasted image 20230926140713.png",
-    "Images/Pasted image 20230926140706.png",
-    "Images/Pasted image 20230926140633.png",
     "Proposal/Sections/Evaluation.md",
-    "Ramsey Email.md",
-    "Proposal/Sections/Core Deliverables.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-09-26.md",
     "Notes on Ramsey Papers",
     "Proposal/Sections/Success Criteria.md",
     "Images",
-    "Deadlines.md",
     "Proposal/Final Proposal.md",
     "Proposal/Proposal Draft (100 words).md",
     "Proposal/Sections/Timetable.md",
