@@ -18,7 +18,7 @@ https://stackoverflow.com/questions/60317899/altbeacon-detection-of-beacon-rssi-
 - open source one to adapt/ is there a library i can build my own from.
 - 
 ### Inhibitor Tag 
-
+https://www.beaconzone.co.uk/allbeacons/K11Beacon?sort=p.price&order=ASC
 - Take regular tag. i.e. using altbeacon.
 - Add a function that it will send an inhibiting signal - i.e. add an extra type/field in advertisement.
 - Does it even need to be different???
@@ -59,9 +59,11 @@ https://stackoverflow.com/questions/60317899/altbeacon-detection-of-beacon-rssi-
 
 ## Extensions
 
+- Have devices receive the info about their found airtags.
+
 - Use more accurate distance approximations with i.e. learn about rayleigh and rician - i.e in [[COVID Talk]]
 
 - Store which tags are in constant location with X for time - detect stalkers? ( like sending on police thing mentioned)
 
 - Create a simulation for how these function
- 
+ - add encryption/security for who gets what.

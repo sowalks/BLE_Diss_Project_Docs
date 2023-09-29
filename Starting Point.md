@@ -38,7 +38,9 @@ Do I need ethics committee [[Ethics committee]]  - look into it
 - How to evaluate
 -  Does the marks scheme mean by strucutred design and evaluation approach
 -  Should i include more complex feature modelling like Rayleigh [[COVID Talk#Covid Talk]]etc (LOOK IT UP) than just the median for my project, or could it be an extension?
--   [[Location FingerPrinting With Bluetooth Low Energy Beacons]]  what is dBm?
+-   [[Location FingerPrinting With Bluetooth Low Energy Beacons]]  what is dBm? https://github.com/neXenio/BLE-Indoor-Positioning
+Found quite a lot of libraies -  this contains ana basic app to visuaize beacon and location data, but also has the tools to go deeper if i want to change things, and is open source with Java.
+Which I already know.
 - Also what the FUCK is a gaussian kernel.
 - epoch? posterior? what are these measurements a what do they do?
 - is an appropriate extensiton the complex modelling features
@@ -46,6 +48,9 @@ Do I need ethics committee [[Ethics committee]]  - look into it
 What experiments should be used??
 
 - how did you do the simulations in the sensors, would it be feasible to recreate as an extension, or should we focus on simulations and extension is to carry out an experiment?
-- 
+-  Should evaluation evaluate the thign i've built (if so how), or would evaluation - i.e. distance error/etc and evaluation of best distance and stuff work
 - What is Professional Practice and Presentation, advice on meeting it?
-- How much should i knoow rn - what can i move to prep time- i.e. working out what things are wher
+- How much should i knoow rn - what can i move to prep time- i.e. working out how to do simulations, or what exactly the web server should feature
+- Can I have normal tags that are then marked as inhibitors in the cloud?
+-  At what level is the location and sampling done i.e.- decisions in accuracy - on apps or in the cloud?
+-  I am not sure about mark scheme

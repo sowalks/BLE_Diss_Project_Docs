@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6c1d183715c769e2","x":-241,"y":-122,"width":400,"height":400,"type":"file","file":"Ramsey Email.md"},
+		{"id":"9524fdce33ac44f8","x":-1240,"y":-80,"width":820,"height":706,"type":"file","file":"Starting Point.md"},
+		{"id":"71eef6e8430e7e84","x":-41,"y":-660,"width":881,"height":660,"type":"file","file":"Proposal/Sections/Core Deliverables.md"},
+		{"id":"5e7091dbe6e2d416","x":-1020,"y":-820,"width":960,"height":640,"type":"file","file":"2023-09-27.md"}
+	],
+	"edges":[]
+}

@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "350a7d8951a50508",
+        "id": "23d914743a072c70",
         "type": "tabs",
         "children": [
           {
-            "id": "31db5f98f9bb675b",
+            "id": "7cb09fcfad8bcacd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "28dd00b0223b55f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting Point.md",
+                "file": "Meeting on 29-09-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23aa8f47f1c10795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ramsey Response Email.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting Point.md",
+                "file": "Meeting on 29-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting Point.md",
+                "file": "Meeting on 29-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting Point.md"
+                "file": "Meeting on 29-09-23.md"
               }
             }
           }
@@ -146,14 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31db5f98f9bb675b",
+  "active": "28dd00b0223b55f9",
   "lastOpenFiles": [
-    "Deadlines.md",
+    "Meeting on 29-09-23.md",
+    "Ramsey Response Email.md",
+    "Untitled.canvas",
+    "2023-09-27.md",
     "Core Ideas.canvas",
+    "Starting Point.md",
+    "Deadlines.md",
     "Notes on Ramsey Papers/COVID Talk.md",
     "Proposal/Sections/Core Deliverables.md",
     "Security Talk Notes.md",
-    "Starting Point.md",
     "Ramsey Email.md",
     "Motivation.md",
     "IDEAS TO PUT ELSEWHERE.md",
