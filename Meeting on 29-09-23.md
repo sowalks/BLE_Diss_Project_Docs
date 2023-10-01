@@ -1,0 +1,1 @@
+https://www.apple.com/uk/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/
