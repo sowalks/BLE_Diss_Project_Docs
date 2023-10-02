@@ -26,3 +26,5 @@ WE CAN USE THESE FOR INHIBITOR TAG SOME OF AT LEAST
 https://www.researchgate.net/publication/334590931_Tracking_Anonymized_Bluetooth_Devices/fulltext/5d3308db92851cd04675a469/Tracking-Anonymized-Bluetooth-Devices.pdf
 
 https://proandroiddev.com/introducing-luch-a-new-library-for-ble-beacon-scans-on-android-50c1cb1623c
+
+https://www.cl.cam.ac.uk/teaching/projects/archive/2022/tjb95-dissertation.pdf

@@ -55,8 +55,21 @@ https://www.beaconzone.co.uk/allbeacons/K11Beacon?sort=p.price&order=ASC
  - or move to seperate bits?
 
 ### Experiments, simulation?
+https://docs.google.com/document/d/1gXvwVsGXXlLeU3d3jx82SSEohveHUsyg6ePAJ40k_cw/edit
+
+Carry Phones/ base line reliability/check same number are detected.
+
+Lab test- if on seperate sides od a body etc, multiple tag/phones are detected to be the same range apart 
+
+So If an inhibitor is detected, and a stalking tag is too, will the stalking tag accurately appear in the correct range - i.e. 2m? - this could investigate the case of both being detected, but interference determining they are too far apart, as well as investigating the same logs at known distances. If the logs are different at further distances, it doesn't really affect detecting stalking, however blocking stalking at a close range it is important the tags appear together, and what range is close enough together.
 
 
+How reliably do phones detect tags close together? If a stalking tag and an inhibintg tag are nearby, we want to ensure not only are they both detected, but they are detected within a suitable distance?
+So how likely are false negatives, despite detection of both tags -  so we don't mark stalking tags as uninhibited
+
+1. Question -  Will tags across a person all be detected near each other? Will a stalking tag and an inhibitor both be detected, but deemed out of range to inhibit. This can be used for how many false negatives to expect, as well as giving a reasonable idea of the range required to avoid spurious results enabling stalking?
+2. 1 While the previous experiments just cover detection, it is still important to know the specific positions. Information in a fixed environment, data such as the distance phones are from the person, and the detected seperation of tags vs the expected distance. How much does this vary in crowded/ empty environments?
+2.1.1 Establishing this through walking through a series of phones at specified distances with two tags across a person. Additionally, repeating through a few different environments like between walls or in a busy area. This will give the reliable distance of detectors and tags, by the changing distances of moving through different devices. As well as an idea of a range to inhibit based on tags on a person, and an idea of the impact environment will have to our inhibitors.
 ## Extensions
 
 - Have devices receive the info about their found airtags.

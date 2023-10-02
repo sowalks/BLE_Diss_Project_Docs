@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "23d914743a072c70",
+        "id": "035a37e033859c38",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb09fcfad8bcacd",
+            "id": "60df6c8198ac2b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Proposal Draft (100 words).md",
+                "file": "Proposal/Sections/Core Deliverables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "279721bfbbc11dc8",
+            "id": "e855999ed29eeb4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Proposal/Proposal Draft (100 words).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal/Proposal Draft (100 words).md",
+                "file": "Proposal/Sections/Core Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal/Proposal Draft (100 words).md",
+                "file": "Proposal/Sections/Core Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal/Proposal Draft (100 words).md"
+                "file": "Proposal/Sections/Core Deliverables.md"
               }
             }
           }
@@ -159,37 +160,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cb09fcfad8bcacd",
+  "active": "60df6c8198ac2b02",
   "lastOpenFiles": [
-    "Untitled.md",
     "Proposal/Proposal Draft (100 words).md",
-    "Meeting on 29-09-23.md",
+    "Proposal/Sections/Core Deliverables.md",
+    "IDEAS TO PUT ELSEWHERE.md",
+    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
+    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+    "Security Talk Notes.md",
+    "Ramsey Email.md",
+    "Proposal/Sections/Evaluation.md",
     "Starting Point.md",
+    "2023-09-27.md",
+    "experiment.md",
+    "Meeting on 29-09-23.md",
+    "Proposal/Proposal Big Draft.md",
+    "Untitled.md",
     "Ramsey Response Email.md",
     "Untitled.canvas",
-    "2023-09-27.md",
     "Core Ideas.canvas",
     "Deadlines.md",
     "Notes on Ramsey Papers/COVID Talk.md",
-    "Proposal/Sections/Core Deliverables.md",
-    "Security Talk Notes.md",
-    "Ramsey Email.md",
     "Motivation.md",
-    "IDEAS TO PUT ELSEWHERE.md",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",
     "Images/Pasted image 20230926154058.png",
     "2023-09-26.md",
-    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Images/Pasted image 20230926150518.png",
     "Images/Pasted image 20230926150354.png",
-    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "Images/Pasted image 20230926143734.png",
     "Images/Pasted image 20230926143524.png",
     "Images/Pasted image 20230926143046.png",
     "Images/Pasted image 20230926142947.png",
     "Images/Pasted image 20230926140934.png",
-    "Proposal/Sections/Evaluation.md",
     "Untitled 1.canvas",
     "Notes on Ramsey Papers",
     "Proposal/Sections/Success Criteria.md",
@@ -198,7 +201,6 @@
     "Proposal/Sections/Timetable.md",
     "Proposal/Sections/Resource Requirements.md",
     "Proposal/Sections/Ethics committee.md",
-    "Proposal/Proposal Big Draft.md",
     "Proposal/Sections",
     "Proposal",
     "BLE Diss Project",
