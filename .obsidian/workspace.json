@@ -38,19 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a630dba1a41bc51e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Success criterion.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,17 +61,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Phase 2 Draft.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -465.24637803091457,
+                  "x": 188.52309222605402,
+                  "y": -540.2138389723116,
                   "zoom": -0.5
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work plan.md",
+                "file": "Phase 2 Draft.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work plan.md",
+                "file": "Phase 2 Draft.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work plan.md"
+                "file": "Phase 2 Draft.canvas"
               }
             }
           }
@@ -211,16 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abfc2a20732b24a5",
+  "active": "82a9a3ea1e71ee27",
   "lastOpenFiles": [
     "Proposal/Proposal Big Draft.md",
+    "Resource declaration.md",
     "Work plan.md",
+    "Phase 2 Draft.canvas",
     "Success criterion.md",
     "Starting Point.md",
     "Proposal/Sections/Core Deliverables.md",
     "Success criterion#.md",
     "Starting Point Draft Proposal.md",
-    "Untitled 2.canvas",
     "Introduction and description.md",
     "Core Ideas.canvas",
     "Untitled 1.canvas",
@@ -257,7 +246,6 @@
     "Notes on Ramsey Papers",
     "Proposal/Sections/Success Criteria.md",
     "Images",
-    "Proposal/Final Proposal.md",
     "Proposal/Sections",
     "Proposal",
     "BLE Diss Project",
