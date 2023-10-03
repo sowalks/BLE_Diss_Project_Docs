@@ -20,18 +20,70 @@
             }
           },
           {
-            "id": "e855999ed29eeb4b",
+            "id": "107e4b09c181bdd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Proposal Draft (100 words).md",
+                "file": "Proposal/Proposal Big Draft.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "abfc2a20732b24a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a630dba1a41bc51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Success criterion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30b1600424161af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting Point.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a9a3ea1e71ee27",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -465.24637803091457,
+                  "zoom": -0.5
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal/Sections/Core Deliverables.md",
+                "file": "Work plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal/Sections/Core Deliverables.md",
+                "file": "Work plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal/Sections/Core Deliverables.md"
+                "file": "Work plan.md"
               }
             }
           }
@@ -160,25 +211,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60df6c8198ac2b02",
+  "active": "abfc2a20732b24a5",
   "lastOpenFiles": [
-    "Proposal/Proposal Draft (100 words).md",
+    "Proposal/Proposal Big Draft.md",
+    "Work plan.md",
+    "Success criterion.md",
+    "Starting Point.md",
     "Proposal/Sections/Core Deliverables.md",
+    "Success criterion#.md",
+    "Starting Point Draft Proposal.md",
+    "Untitled 2.canvas",
+    "Introduction and description.md",
+    "Core Ideas.canvas",
+    "Untitled 1.canvas",
+    "RE Assassin's Tracker Study/Stop_Following_Me-UNDER_REVIEW.pdf",
+    "RE Assassin's Tracker Study/Can't_Keep_Them_Away.pdf",
+    "RE Assassin's Tracker Study",
+    "Proposal/Proposal Draft (100 words).md",
     "IDEAS TO PUT ELSEWHERE.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "Security Talk Notes.md",
     "Ramsey Email.md",
     "Proposal/Sections/Evaluation.md",
-    "Starting Point.md",
     "2023-09-27.md",
     "experiment.md",
     "Meeting on 29-09-23.md",
-    "Proposal/Proposal Big Draft.md",
     "Untitled.md",
     "Ramsey Response Email.md",
     "Untitled.canvas",
-    "Core Ideas.canvas",
     "Deadlines.md",
     "Notes on Ramsey Papers/COVID Talk.md",
     "Motivation.md",
@@ -193,14 +254,10 @@
     "Images/Pasted image 20230926143046.png",
     "Images/Pasted image 20230926142947.png",
     "Images/Pasted image 20230926140934.png",
-    "Untitled 1.canvas",
     "Notes on Ramsey Papers",
     "Proposal/Sections/Success Criteria.md",
     "Images",
     "Proposal/Final Proposal.md",
-    "Proposal/Sections/Timetable.md",
-    "Proposal/Sections/Resource Requirements.md",
-    "Proposal/Sections/Ethics committee.md",
     "Proposal/Sections",
     "Proposal",
     "BLE Diss Project",
