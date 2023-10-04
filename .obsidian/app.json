@@ -1,6 +1,8 @@
 {
   "spellcheckDictionary": [
-    "langs"
+    "langs",
+    "supos",
+    "disssertation"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images",

@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"d29e76d39db9f1b6","x":-740,"y":-980,"width":400,"height":400,"type":"file","file":"Proposal/Proposal Big Draft.md"},
 		{"id":"ca3c5a57494e55e7","x":-340,"y":-1040,"width":400,"height":400,"type":"file","file":"Deadlines.md"},
-		{"id":"9c6d86a7d1ad1cf7","x":-740,"y":-532,"width":400,"height":385,"type":"file","file":"Resource declaration.md"},
+		{"id":"9c6d86a7d1ad1cf7","x":-1120,"y":-560,"width":780,"height":413,"type":"file","file":"Resource declaration.md"},
 		{"id":"c8c5059f672baf10","x":100,"y":-1100,"width":400,"height":400,"type":"file","file":"Work plan.md"},
 		{"id":"25566bae9f59cf6a","x":-300,"y":-620,"width":480,"height":440,"type":"file","file":"Proposal/Proposal Draft (100 words).md"},
-		{"id":"272374dc5da815c7","x":200,"y":-640,"width":600,"height":120,"type":"file","file":"Introduction and description.md"}
+		{"id":"272374dc5da815c7","x":200,"y":-640,"width":600,"height":120,"type":"file","file":"Introduction and description.md"},
+		{"id":"b7bba2cc0fd985ea","x":550,"y":260,"width":250,"height":60,"type":"text","text":""},
+		{"id":"91c29a706aa2efbb","x":240,"y":-460,"width":820,"height":480,"type":"file","file":"Ramsey Response Email.md"}
 	],
 	"edges":[]
 }
