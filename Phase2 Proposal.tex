@@ -1,6 +1,6 @@
 
 \documentclass[12pt]{article}
-
+\usepackage{hyperref}
 \setlength{\oddsidemargin}{0pt}
 \setlength{\textwidth}{450pt}
 \begin{document}
@@ -12,7 +12,7 @@
 \section{Introduction}
 
 
-Bluetooth Low Energy tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, these can be used maliciously to stalk others. My project will involve creating a system to unobtrusively prevent stalking. This involves an inhibitor mode for tags that will create a `privacy bubble' around them. Tags functioning in a normal mode, which can be located to find, are `tracking' tags. A privacy bubble means any tracking tags near in time or distance to an inhibitor will not report their locations back to an owner. This has the potential to stop stalking as tags placed on a victim will be unable to be tracked. 
+Bluetooth Low Energy (BLE) tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, these can be used maliciously to stalk others. My project will involve creating a system to unobtrusively prevent stalking. This involves an inhibitor mode for tags that will create a `privacy bubble' around them. Tags functioning in a normal mode, which can be located to find, are `tracking' tags. A privacy bubble means any tracking tags near in time or distance to an inhibitor will not report their locations back to an owner. This has the potential to stop stalking as tags placed on a victim will be unable to be tracked. 
 \par
 
 Additionally this will give people peace of mind that stalking will be stopped, even before it is detected by other tools, as this will block any tracking tags nearby. Benign tags will go out of scope with their owners, so the blocking should not be diruptive, whilst true stalking is prevented. This can also prevent annoyances from false positive stalker detection that picks up tags owned by friends, family or collegues, as this mechanism works without requiring notifications.
@@ -23,10 +23,14 @@ Currently there are other stalking prevention features in similar devices, but t
 \section{Description of Project}
 
 My project does not aim to create new tags or hardware, insteaed I want to alter the system used to interact with tags, so this could be implemented without users requiring a new or altered tag.
- So,this project will involve two key items:
+ So, this project will involve two key items:
 \begin{itemize}
-\item{\bf{The App:}Received Signal Strength Indicator}
-\item{\bf{The Server:}}
+\item{ {\bf The App:}This will be modified from a current app (I am looking into the most suitable one at the moment for myfinal proposal, - e.g: \href{https://github.com/neXenio/BLE-Indoor-Positioning}{this})  that can scan for BLE tags and obtains their   Received Signal Strength Indicator (RSSI) to calculate location of tags. I will then modify this to communicate with the server by passing locations of found tags to it. This can be further modified in extensions to improve locating tags and provide security.}
+\item{{\bf The Server:} I will build this using python Flask and MySQL to create a  database which stores the tag ids and which mode they are registered as, their location and if they are inhibited. It will also calculate which tags are in range of inhibitors and block these. Additionally it will share the location back to the user.}
+
+I will also have to solve difficulties regarding the imperfect BLE system, and create one that can cope with interference of tags signal through people and other spurious results ************cite . This will also have to ensure if tags are in range of each other, but detected by separate devices, or if a tracking tag is detected before the nearby inhibitor is. This is a few of the issues my system should aim to be robust against.
+
+
 \end{itemize}
 
 
@@ -104,6 +108,7 @@ I accept full responsibility for this machine and I have made contingency plans 
 Anti-Stalking Protocols in Personal Item Tracking Devices"
 
 \bibitem{FingerprintingBLE} R. Faragher and R.~Harle, ``Location Fingerprinting With Bluetooth Low Energy Beacons," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 11, pp. 2418-2428, Nov. 2015, doi: 10.1109/JSAC.2015.2430281.
+
 \end{thebibliography}
 
 \end{document}

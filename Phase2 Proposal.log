@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  5 OCT 2023 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  5 OCT 2023 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,9 +23,154 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count193
+)
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count195
+\Hy@pagecounter=\count196
+
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count197
+
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count198
+
+(c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen142
+
+(c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count199
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count266
+\c@Item=\count267
+\c@Hfootnote=\count268
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count269
+\c@bookmark@seq@number=\count270
+
+(c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count193
+\l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box51
 )
 (./Phase2 Proposal.aux)
@@ -45,140 +190,168 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Package hyperref Info: Link coloring OFF on input line 6.
+\@outlinefile=\write3
+\openout3 = `"Phase2 Proposal.out"'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
+(Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
- [1
+(Font)              <7> on input line 11.
+
+
+LaTeX Warning: Citation `Failuresof ASProtocols' on page 1 undefined on input l
+ine 20.
+
+[1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2{c:/texlive/2
 023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 69.
+(Font)              <12> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 69.
+(Font)              <8> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 69.
+(Font)              <6> on input line 70.
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 72--72
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 73--73
 []\OT1/cmr/m/n/12 16/10/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 73--73
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 74--74
 []\OT1/cmr/m/n/12 30/10/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 74--74
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 75--75
 []\OT1/cmr/m/n/12 13/11/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 75--75
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 76--76
 []\OT1/cmr/m/n/12 27/11/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 76--76
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 77--77
 []\OT1/cmr/m/n/12 11/12/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 77--77
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 78--78
 []\OT1/cmr/m/n/12 25/12/2023| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 79--79
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 80--80
 []\OT1/cmr/m/n/12 08/01/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 80--80
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 81--81
 []\OT1/cmr/m/n/12 22/01/2024| 
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 80--80
+Underfull \hbox (badness 3514) in paragraph at lines 81--81
 []\OT1/cmr/m/n/12 Presentation for Progress Re-
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 81--81
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 82--82
 []\OT1/cmr/m/n/12 05/02/2024| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\OT1/cmr/m/n/12 Optional: Recorded
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 81--81
+Underfull \hbox (badness 5592) in paragraph at lines 82--82
 \OT1/cmr/m/n/12 data/experiments  for im-ple-
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 82--82
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 83--83
 []\OT1/cmr/m/n/12 19/02/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 83--83
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 84--84
 []\OT1/cmr/m/n/12 04/03/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 84--84
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 85--85
 []\OT1/cmr/m/n/12 18/03/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 85--85
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 86--86
 []\OT1/cmr/m/n/12 01/04/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 86--86
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 87--87
 []\OT1/cmr/m/n/12 15/04/2024| 
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 87--87
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 88--88
 []\OT1/cmr/m/n/12 29/04/2024| 
  []
 
 
-Overfull \hbox (24.79129pt too wide) in paragraph at lines 69--89
+Overfull \hbox (24.79129pt too wide) in paragraph at lines 70--90
 [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 24.19963pt on input line 89.
+LaTeX Warning: Float too large for page by 24.19963pt on input line 90.
 
 [3] [4] [5] (./Phase2 Proposal.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `"Phase2 Proposal".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Phase2 Proposal".out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  B2C67D9FA7172B062B272D2E71E6AA3C;975.
  ) 
 Here is how much of TeX's memory you used:
- 472 strings out of 474928
- 9045 string characters out of 5763562
+ 7547 strings out of 474928
+ 117441 string characters out of 5763562
  1936785 words of memory out of 5000000
- 22090 multiletter control sequences out of 15000+600000
- 562960 words of font info for 52 fonts, out of 8000000 for 9000
+ 29040 multiletter control sequences out of 15000+600000
+ 563267 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,50p,685b,209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,685b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist
 /fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "Phase2 Proposal.pdf" (5 pages, 64364 bytes).
+Output written on "Phase2 Proposal.pdf" (5 pages, 65930 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
