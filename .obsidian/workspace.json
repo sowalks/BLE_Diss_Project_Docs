@@ -25,9 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ramsey Response Email.md",
+                "file": "Deadlines.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26005b4f93ff5a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Docs Phase 2.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "caa52fb74ba52b47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Phase 2 Proposal/Phase2 Proposal.pdf"
               }
             }
           }
@@ -78,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ramsey Response Email.md",
+                "file": "Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ramsey Response Email.md",
+                "file": "Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ramsey Response Email.md"
+                "file": "Deadlines.md"
               }
             }
           }
@@ -162,21 +183,23 @@
   },
   "active": "f7342343eb47b033",
   "lastOpenFiles": [
+    "Phase2 Proposal.synctex(busy)",
+    "Phase2 Proposal.synctex.gz",
+    "Phase2 Proposal.pdf",
+    "Phase2 Proposal.aux",
+    "Phase2 Proposal.log",
+    "100 words Response.md",
+    "Ramsey Response Email.md",
+    "LaTeX Docs Phase 2.md",
+    "Phase 2 Proposal/Phase2 Proposal.pdf",
+    "Untitled 2.canvas",
     "Phase2 Proposal.tex",
     "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
     "Phase 2 Proposal/Phase2 Proposal.tex",
     "Phase 2 Proposal/refs.log",
     "Phase 2 Proposal/refs.bib",
-    "Phase 2 Proposal/Phase2 Proposal.pdf",
-    "Phase 2 Proposal/Phase2 Proposal.log",
-    "Phase 2 Proposal/Phase2 Proposal.blg",
-    "Phase 2 Proposal/Phase2 Proposal.bbl",
-    "Phase 2 Proposal/Phase2 Proposal.aux",
-    "Phase 2 Proposal",
     "Proposal/Sections/Core Deliverables.md",
-    "100 words Response.md",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-    "Ramsey Response Email.md",
     "IDEAS TO PUT ELSEWHERE.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Work plan.md",
@@ -200,7 +223,6 @@
     "Security Talk Notes.md",
     "2023-09-27.md",
     "experiment.md",
-    "Meeting on 29-09-23.md",
     "Untitled.canvas",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",

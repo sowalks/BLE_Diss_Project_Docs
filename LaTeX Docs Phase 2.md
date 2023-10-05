@@ -1,6 +1,6 @@
 
 \documentclass[12pt]{article}
-
+\frenchspacing
 \setlength{\oddsidemargin}{0pt}
 \setlength{\textwidth}{450pt}
 \begin{document}
@@ -12,44 +12,33 @@
 \section{Introduction}
 
 
-Bluetooth Low Energy tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, these can be used maliciously to stalk others. My project will involve creating a system to unobtrusively prevent stalking. This involves an inhibitor mode for tags that will create a `privacy bubble' around them. Tags functioning in a normal mode, which can be located to find, are `tracking' tags. A privacy bubble means any tracking tags near in time or distance to an inhibitor will not report their locations back to an owner. This has the potential to stop stalking as tags placed on a victim will be unable to be tracked. 
-\par
+Bluetooth Low Energy tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, these can be used maliciously to stalk others. 
+ My project will involve creating a system to unobtrusively prevent stalking. this will involve creating a 'privacy bubble' where any tracking tags that are near an inhibitor will not have their locations reported back to their owner.
+This will involve creating my own system to track tags, register inhibitor/tracker mode and distribute locations or not within this. I will have to overcome....!!!!
+I wish to investigate the effectiveness and usability of such a system
 
-Additionally this will give people peace of mind that stalking will be stopped, even before it is detected by other tools, as this will block any tracking tags nearby. Benign tags will go out of scope with their owners, so the blocking should not be diruptive, whilst true stalking is prevented. This can also prevent annoyances from false positive stalker detection that picks up tags owned by friends, family or collegues, as this mechanism works without requiring notifications.
-\par
-Currently there are other stalking prevention features in similar devices, but typically detecting stalkers takes at least 4 hours \cite{Failuresof ASProtocols} and can repetitively alert users to false positives if we are near a person with their own tag, for extended periods of time. This method of indiscriminately blocking nearby tags should not pose issues for people finding their own tags,  but solves the issue other tools have where we cannot distinguish malicious from safe tracking. 
+There a number of tools to prevent and detect stalking, however this will stop stalking before it would even be detected by the other tools.            there are drawbacks to these, and we cannot distinguish 'good tracking' , i.e. relatives  devices, from 'bad tracking' like stalking. A privacy bubble stops these alerts and the significance of false positives.
+Additionally it will prevent stalking, even before tools would detect this, as all BLE trackers within an area will  not feedback their location to the owner, whether it is stalking or not.
 
 
 \section{Description of Project}
-
-My project does not aim to create new tags or hardware, insteaed I want to alter the system used to interact with tags, so this could be implemented without users requiring a new or altered tag.
- So,this project will involve two key items:
-\begin{itemize}
-\item{\bf{The App:}Received Signal Strength Indicator}
-\item{\bf{The Server:}}
-\end{itemize}
-
+different settings for the time bounds and distance bounds for two devices being co-located
+is introducing inhibitor tags to a BLE tracking system an effective way to reduce the risk/impact/ease of stalking"
 
 \section{Success Criteria}
 \begin{itemize}
-\item{An app must be modified that can register BLE tags in two modes, locate tags based on RSSI and the phones location.  and communicate with the server to share the signal strength of any tags that can be detected and current location.}
-
-\item{A server must be built that can communicate with the app to identify inhibitor tags and find any tracking tags that are within time  and distance bounds of a tracker tag. }
-
-\item{The time and Distance bounds should be able to be set and changed on the server. I will investigate the time and distance ranges that will be appropriate for this bubble, based on experiments centred on the accuracy for variable bounds, and how what settings could reasonably cover a person from stalking.}
-
+\item{An app must be modified that can register BLE tags in two modes and communicate with the server.}
+\item{A server must be built that can locate tags, and mark those which are in range of inhibitor tags.}
+\item{I will investigate the time and distance ranges that will be appropriate for this bubble, based on experiments centred on the range we can be accurate in, and how far it needs to be to cover a person from stalking.}
+\item{The 'owner' devices of tags should be able to receive the location of their tags in the app if they are not in the inhibitor range.}
 \end{itemize}
 \section{Possible Extensions}
 \begin{itemize}
-\item{Return uninhibited tags' locations to the owner. This is not required for the core investigation into whether we can have a functioning `privacy bubble' as we can still mark those tags as (un)blocked. However for investigation into the usability, this is required. }
-\item{Tag type is determined is in the server alone in the main implementation, an extension may explore tag type being set by the detecting phones. This adds flexibility later (tags can be changed from one type to another, even historically.}
-
+\item{Tag type is determined is in the server alone in the main implementation, an extension may explore tag type being set by the detecting phones. This adds flexibility later (tags can be changed from one type to another, even historically.}
 \item{Implementing the same security procedures used by Apple to cycle IDs regularly and encrypt data in the server is a clear example.
 }
 \item{complex and accurate methods for locating tags based on an epoch of measurements}
-
 \item{identifying stalkers even if they have been blocked}
-
 \item{Implementing local finding, if the devices are in range - i.e. to allow genuine tags to be found only if their owner is in range. use case i.e. so you do not stop your neighbours finding their own items while at home. This can also prevent malicious use of inhibitor tags by thiefs that can block an area of tags to prevent owners finding items etc.}
 \end{itemize}
 \section{Evaluation}
@@ -78,8 +67,8 @@ This will be completed in  Java/Kotlin (based on most appropriate app chosen) wh
         11-12 & 25/12/2023 & Part of this package will be spent on the Christmas Holiday. The rest will be used to continue working on any extensions or as slack for unfinished deliverables. & Any Previous Unfinished Deliverables. \\ \hline
         & Lent Term & Lent Term & Lent Term \\ \hline
         13-14 & 08/01/2024 & ~ & Progress Report. An evaluation plan. Recorded Data for Device based inhibiting. \\ \hline
-        15-16 & 22/01/2024 & ~ & Presentation for Progress Report.   Recorded Data for server based inhibiting \\ \hline
-        17-18 & 05/02/2024 & ~ & Optional: Recorded data/experiments  for implemented extensions. \\ \hline
+        15-16 & 22/01/2024 & ~ & Presentation for Progress Report.   Recorded Data for server based inhibiting \\ \hline
+        17-18 & 05/02/2024 & ~ & Optional: Recorded data/experiments  for implemented extensions. \\ \hline
         19-20 & 19/02/2024 & ~ & Write up of data recorded and evaluation and conclusions. \\ \hline
         21-22 & 04/03/2024 & ~ & Any Previous Unfinished Deliverables. \\ \hline
         23-24 & 18/03/2024 & ~ & Introduction Chapter of Dissertation \\ \hline
@@ -99,11 +88,10 @@ I accept full responsibility for this machine and I have made contingency plans 
 
 
 \begin{thebibliography}{9}
-\frenchspacing
 \bibitem{Failuresof ASProtocols}``Can’t Keep Them Away: The Failures of
 Anti-Stalking Protocols in Personal Item Tracking Devices"
 
-\bibitem{FingerprintingBLE} R. Faragher and R.~Harle, ``Location Fingerprinting With Bluetooth Low Energy Beacons," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 11, pp. 2418-2428, Nov. 2015, doi: 10.1109/JSAC.2015.2430281.
+\bibitem{FingerprintingBLE}R. Faragher and R. Harle, ``Location Fingerprinting With Bluetooth Low Energy Beacons," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 11, pp. 2418-2428, Nov. 2015, doi: 10.1109/JSAC.2015.2430281.
 \end{thebibliography}
 
 \end{document}

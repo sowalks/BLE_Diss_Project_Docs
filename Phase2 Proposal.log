@@ -1,0 +1,184 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  5 OCT 2023 22:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Phase2 Proposal.tex"
+(./Phase2 Proposal.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+(./Phase2 Proposal.aux)
+\openout1 = `"Phase2 Proposal.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+ [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2{c:/texlive/2
+023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 69.
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/12 16/10/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 73--73
+[]\OT1/cmr/m/n/12 30/10/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 74--74
+[]\OT1/cmr/m/n/12 13/11/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 75--75
+[]\OT1/cmr/m/n/12 27/11/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 76--76
+[]\OT1/cmr/m/n/12 11/12/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 77--77
+[]\OT1/cmr/m/n/12 25/12/2023| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 79--79
+[]\OT1/cmr/m/n/12 08/01/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 22/01/2024| 
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 Presentation for Progress Re-
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 81--81
+[]\OT1/cmr/m/n/12 05/02/2024| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]\OT1/cmr/m/n/12 Optional: Recorded
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 81--81
+\OT1/cmr/m/n/12 data/experiments  for im-ple-
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 82--82
+[]\OT1/cmr/m/n/12 19/02/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 83--83
+[]\OT1/cmr/m/n/12 04/03/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 18/03/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 85--85
+[]\OT1/cmr/m/n/12 01/04/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/m/n/12 15/04/2024| 
+ []
+
+
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 87--87
+[]\OT1/cmr/m/n/12 29/04/2024| 
+ []
+
+
+Overfull \hbox (24.79129pt too wide) in paragraph at lines 69--89
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 24.19963pt on input line 89.
+
+[3] [4] [5] (./Phase2 Proposal.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 472 strings out of 474928
+ 9045 string characters out of 5763562
+ 1936785 words of memory out of 5000000
+ 22090 multiletter control sequences out of 15000+600000
+ 562960 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,10n,50p,685b,209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist
+/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on "Phase2 Proposal.pdf" (5 pages, 64364 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
