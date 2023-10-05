@@ -4,94 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "035a37e033859c38",
+        "id": "258742dc875eb6de",
         "type": "tabs",
         "children": [
           {
-            "id": "107e4b09c181bdd7",
+            "id": "5db2395948de0da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/Proposal Big Draft.md",
+                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abfc2a20732b24a5",
+            "id": "f7342343eb47b033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work plan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30b1600424161af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proposal/Proposal Draft (100 words).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a9a3ea1e71ee27",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Phase 2 Draft.canvas",
-                "viewState": {
-                  "x": 683.0452907166783,
-                  "y": -138.639023878205,
-                  "zoom": -0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "5228b5e35b194666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource declaration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f0e26cc13ee7d06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dc29d9bb7217d91d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CST Part II Briefing.md",
+                "file": "Ramsey Response Email.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "email ",
+                "query": "extensions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,40 +160,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82a9a3ea1e71ee27",
+  "active": "f7342343eb47b033",
   "lastOpenFiles": [
-    "Work plan.md",
-    "Proposal/Proposal Big Draft.md",
-    "Proposal/Proposal Draft (100 words).md",
-    "Phase 2 Draft.canvas",
-    "Introduction and description.md",
-    "CST Part II Briefing.md",
-    "Ramsey Email.md",
-    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+    "Phase2 Proposal.tex",
+    "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
+    "Phase 2 Proposal/Phase2 Proposal.tex",
+    "Phase 2 Proposal/refs.log",
+    "Phase 2 Proposal/refs.bib",
+    "Phase 2 Proposal/Phase2 Proposal.pdf",
+    "Phase 2 Proposal/Phase2 Proposal.log",
+    "Phase 2 Proposal/Phase2 Proposal.blg",
+    "Phase 2 Proposal/Phase2 Proposal.bbl",
+    "Phase 2 Proposal/Phase2 Proposal.aux",
+    "Phase 2 Proposal",
     "Proposal/Sections/Core Deliverables.md",
-    "Starting Point.md",
-    "Resource declaration.md",
-    "Success criterion.md",
-    "Success criterion#.md",
-    "Starting Point Draft Proposal.md",
-    "Core Ideas.canvas",
-    "Untitled 1.canvas",
-    "RE Assassin's Tracker Study/Stop_Following_Me-UNDER_REVIEW.pdf",
-    "RE Assassin's Tracker Study/Can't_Keep_Them_Away.pdf",
-    "RE Assassin's Tracker Study",
+    "100 words Response.md",
+    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+    "Ramsey Response Email.md",
     "IDEAS TO PUT ELSEWHERE.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
-    "Security Talk Notes.md",
+    "Work plan.md",
+    "LaTeX.md",
     "Proposal/Sections/Evaluation.md",
+    "Introduction and description.md",
+    "Success criterion.md",
+    "Proposal/Sections/Success Criteria.md",
+    "Proposal/Final Proposal.md",
+    "Starting Point Draft Proposal.md",
+    "Resource declaration.md",
+    "Proposal/Proposal Draft (100 words).md",
+    "Proposal/Proposal Big Draft.md",
+    "Phase 2 Draft.canvas",
+    "CST Part II Briefing.md",
+    "Ramsey Email.md",
+    "Starting Point.md",
+    "Success criterion#.md",
+    "Core Ideas.canvas",
+    "Untitled 1.canvas",
+    "Security Talk Notes.md",
     "2023-09-27.md",
     "experiment.md",
     "Meeting on 29-09-23.md",
-    "Untitled.md",
-    "Ramsey Response Email.md",
     "Untitled.canvas",
-    "Deadlines.md",
-    "Notes on Ramsey Papers/COVID Talk.md",
-    "Motivation.md",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",
     "Images/Pasted image 20230926154058.png",
@@ -262,12 +211,6 @@
     "Images/Pasted image 20230926143524.png",
     "Images/Pasted image 20230926143046.png",
     "Images/Pasted image 20230926142947.png",
-    "Images/Pasted image 20230926140934.png",
-    "Notes on Ramsey Papers",
-    "Images",
-    "Proposal/Sections",
-    "Proposal",
-    "BLE Diss Project",
-    "New folder"
+    "Images/Pasted image 20230926140934.png"
   ]
 }

@@ -1,0 +1,97 @@
+
+\documentclass[12pt]{article}
+\frenchspacing
+\setlength{\oddsidemargin}{0pt}
+\setlength{\textwidth}{450pt}
+\begin{document}
+\title{Bluetooth Tracking Privacy Bubble}
+\author{Sophie Walker}
+\date{5 October 2023}
+\maketitle
+\thispagestyle{empty}
+\section{Introduction}
+
+
+Bluetooth Low Energy tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, these can be used maliciously to stalk others. 
+ My project will involve creating a system to unobtrusively prevent stalking. this will involve creating a 'privacy bubble' where any tracking tags that are near an inhibitor will not have their locations reported back to their owner.
+This will involve creating my own system to track tags, register inhibitor/tracker mode and distribute locations or not within this. I will have to overcome....!!!!
+I wish to investigate the effectiveness and usability of such a system
+
+There a number of tools to prevent and detect stalking, however this will stop stalking before it would even be detected by the other tools.            there are drawbacks to these, and we cannot distinguish 'good tracking' , i.e. relatives  devices, from 'bad tracking' like stalking. A privacy bubble stops these alerts and the significance of false positives.
+Additionally it will prevent stalking, even before tools would detect this, as all BLE trackers within an area will  not feedback their location to the owner, whether it is stalking or not.
+
+
+\section{Description of Project}
+different settings for the time bounds and distance bounds for two devices being co-located
+is introducing inhibitor tags to a BLE tracking system an effective way to reduce the risk/impact/ease of stalking"
+
+\section{Success Criteria}
+\begin{itemize}
+\item{An app must be modified that can register BLE tags in two modes and communicate with the server.}
+\item{A server must be built that can locate tags, and mark those which are in range of inhibitor tags.}
+\item{I will investigate the time and distance ranges that will be appropriate for this bubble, based on experiments centred on the range we can be accurate in, and how far it needs to be to cover a person from stalking.}
+\item{The 'owner' devices of tags should be able to receive the location of their tags in the app if they are not in the inhibitor range.}
+\end{itemize}
+\section{Possible Extensions}
+\begin{itemize}
+\item{Tag type is determined is in the server alone in the main implementation, an extension may explore tag type being set by the detecting phones. This adds flexibility later (tags can be changed from one type to another, even historically.}
+\item{Implementing the same security procedures used by Apple to cycle IDs regularly and encrypt data in the server is a clear example.
+}
+\item{complex and accurate methods for locating tags based on an epoch of measurements}
+\item{identifying stalkers even if they have been blocked}
+\item{Implementing local finding, if the devices are in range - i.e. to allow genuine tags to be found only if their owner is in range. use case i.e. so you do not stop your neighbours finding their own items while at home. This can also prevent malicious use of inhibitor tags by thiefs that can block an area of tags to prevent owners finding items etc.}
+\end{itemize}
+\section{Evaluation}
+ BLE is a suboptimal system and by implementing this test system we can establish the false positive rates, false negative rates, and any other stats of interest for various settings and scenarios.
+
+This can include an experiment based on 
+
+. We will address the question "is introducing inhibitor tags to a BLE tracking system an effective way to reduce the risk/impact/ease of stalking".
+
+
+\section{Starting Point}
+
+This will be completed in  Java/Kotlin (based on most appropriate app chosen) which I have used in the OP course/  which I have not used except for a basic tutorial this summer.
+ I will also use Python Flask to build the webserver, which I have used briefly before in the Group Project last year. I have used SQL in databases, but not MySQL specifically.  I have not previously used tools or libraries related to BLE tracking tags before.
+
+\section{Work Plan}
+\begin{table}[!ht]
+    \begin{tabular}{|p{1cm}|p{2cm}|p{6cm}|p{6cm}|}
+    \hline
+        Week & Start & Work Package & Deliverable \\ \hline
+        1-2 & 16/10/2023 & Learn to use and edit BLE libraries. Set up and learn to use flask with MySQL. & Write up of completed experiments, limitations that could affect this project. Write up understanding of modifications and requirements of app. \\ \hline
+        3-4 & 30/10/2023 & ~ & Full Specification of Solution \\ \hline
+        5-6 & 13/11/2023 & ~ & Implement modifications to app and deviced based inhibiting \\ \hline
+        7-8 & 27/11/2023 & ~ & Implement web server and web based inhibiting \\ \hline
+        9-10 & 11/12/2023 & ~ & Evidence of succesful testing of both systems. Optionally Implement extension \\ \hline
+        11-12 & 25/12/2023 & Part of this package will be spent on the Christmas Holiday. The rest will be used to continue working on any extensions or as slack for unfinished deliverables. & Any Previous Unfinished Deliverables. \\ \hline
+        & Lent Term & Lent Term & Lent Term \\ \hline
+        13-14 & 08/01/2024 & ~ & Progress Report. An evaluation plan. Recorded Data for Device based inhibiting. \\ \hline
+        15-16 & 22/01/2024 & ~ & Presentation for Progress Report.   Recorded Data for server based inhibiting \\ \hline
+        17-18 & 05/02/2024 & ~ & Optional: Recorded data/experiments  for implemented extensions. \\ \hline
+        19-20 & 19/02/2024 & ~ & Write up of data recorded and evaluation and conclusions. \\ \hline
+        21-22 & 04/03/2024 & ~ & Any Previous Unfinished Deliverables. \\ \hline
+        23-24 & 18/03/2024 & ~ & Introduction Chapter of Dissertation \\ \hline
+        25-26 & 01/04/2024 & ~ & Preparation and Implementation Chapters of Dissertation \\ \hline
+        27-28 & 15/04/2024 & ~ & Full dissertation Chapters \\ \hline
+        29-30 & 29/04/2024 & ~ & Full Completed Dissertation \\ \hline
+    \end{tabular}
+\end{table}
+\section{Resource Declaration}
+
+The resources that this project requires are BLE tracking tags to test and create the inhibitor and tracking system and
+Android phones are required to detect the tags.
+Both of these will be provided by Dr Ramsey Faragher. 
+In the case they are not provided, I will be able to simulate BLE beacons on my laptop and use my personal phone, although they have already been ordered so this should not be the case.
+I will use my personal laptop to build this, with another personal laptop as a contingency. I will backup all code to GitHub and use it's version control. Any documents created I will back up to GitHub. I am using TeXworks and Obsidian to write these.
+I accept full responsibility for this machine and I have made contingency plans to protect myself against hardware and/or software failure.
+
+
+\begin{thebibliography}{9}
+\bibitem{Failuresof ASProtocols}``Can’t Keep Them Away: The Failures of
+Anti-Stalking Protocols in Personal Item Tracking Devices"
+
+\bibitem{FingerprintingBLE}R. Faragher and R. Harle, ``Location Fingerprinting With Bluetooth Low Energy Beacons," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 11, pp. 2418-2428, Nov. 2015, doi: 10.1109/JSAC.2015.2430281.
+\end{thebibliography}
+
+\end{document}

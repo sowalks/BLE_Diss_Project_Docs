@@ -1,5 +1,8 @@
 Can i research what is the best parameters??? For best detection and prevention.
 
+THIS IS USEFUL FOR NON TECHNICAL USRE S AND THOSE WHO WANT TO BE WARY OF STALKING BUT WILL NOT USE ANTI TRACKER TOOLS LIKE IN KEIRON IVYS ONE. 
+THE KEI
+
 What if a phone does not listen and sends anyway? Or is in the weird range?  Ensure Blocked
 
 - Parameters I need to evaluate and research are the time period to wait before transmitting location to check i this has been inhibited.

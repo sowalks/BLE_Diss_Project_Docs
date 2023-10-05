@@ -2,7 +2,8 @@
   "spellcheckDictionary": [
     "langs",
     "supos",
-    "disssertation"
+    "disssertation",
+    "frenchspacing"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images",

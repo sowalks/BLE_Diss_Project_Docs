@@ -1,5 +1,7 @@
 ### Format of the proposal
 
+https://github.com/PunchThrough/ble-starter-android
+
 A project proposal is expected to be about 1000 words long. It consists of the following:
 
 1. A standard [cover sheet](https://www.cst.cam.ac.uk/files/proposalform.pdf)
