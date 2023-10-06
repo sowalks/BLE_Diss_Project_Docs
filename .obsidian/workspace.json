@@ -62,14 +62,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 words Response.md",
+                "file": "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1caae5c63e48f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementing Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8b6bc71e9538ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evaluation Mini Game.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 words Response.md",
+                "file": "Evaluation Mini Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 words Response.md",
+                "file": "Evaluation Mini Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 words Response.md"
+                "file": "Evaluation Mini Game.md"
               }
             }
           }
@@ -197,19 +221,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f2f69a94c318789",
+  "active": "a8b6bc71e9538ea5",
   "lastOpenFiles": [
+    "Phase2 Proposal.synctex(busy)",
+    "Implementing Database.md",
+    "Evaluation Mini Game.md",
+    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
+    "100 words Response.md",
     "Phase 2 Proposal/Phase2 Proposal.pdf",
     "Core Ideas.canvas",
     "Phase2 Proposal.out",
-    "Phase2 Proposal.synctex(busy)",
     "2023-09-27.md",
     "Deadlines.md",
     "Phase2 Proposal.synctex.gz",
     "Phase2 Proposal.pdf",
     "Phase2 Proposal.aux",
     "Phase2 Proposal.log",
-    "100 words Response.md",
     "Ramsey Response Email.md",
     "LaTeX Docs Phase 2.md",
     "Untitled 2.canvas",
@@ -219,7 +246,6 @@
     "Proposal/Sections/Core Deliverables.md",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "IDEAS TO PUT ELSEWHERE.md",
-    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Work plan.md",
     "LaTeX.md",
     "Proposal/Sections/Evaluation.md",
@@ -235,9 +261,7 @@
     "CST Part II Briefing.md",
     "Ramsey Email.md",
     "Starting Point.md",
-    "Success criterion#.md",
     "Untitled 1.canvas",
-    "Security Talk Notes.md",
     "Untitled.canvas",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",
