@@ -4,84 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "258742dc875eb6de",
+        "id": "628285e18dc59368",
         "type": "tabs",
         "children": [
           {
-            "id": "5db2395948de0da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7342343eb47b033",
+            "id": "cafd8a15ecfd5440",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Core Ideas.canvas",
                 "viewState": {
-                  "x": 265.18545694582497,
-                  "y": 104.26585785338118,
-                  "zoom": -1.1523856551397307
+                  "x": -838.9477758262393,
+                  "y": 3632.211023498194,
+                  "zoom": -0.6445106493552318
                 }
               }
             }
           },
           {
-            "id": "26005b4f93ff5a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX Docs Phase 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caa52fb74ba52b47",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Phase 2 Proposal/Phase2 Proposal.pdf"
-              }
-            }
-          },
-          {
-            "id": "9f2f69a94c318789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1caae5c63e48f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementing Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b6bc71e9538ea5",
+            "id": "7134589e9e99482f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,9 +33,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d85bc087d925c745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -160,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evaluation Mini Game.md",
+                "file": "Core Ideas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evaluation Mini Game.md",
+                "file": "Core Ideas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evaluation Mini Game.md"
+                "file": "Core Ideas.canvas"
               }
             }
           }
@@ -221,15 +173,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b6bc71e9538ea5",
+  "active": "cafd8a15ecfd5440",
   "lastOpenFiles": [
-    "Phase2 Proposal.synctex(busy)",
-    "Implementing Database.md",
+    "proposalform.pdf",
+    "Untitled 3.canvas",
+    "2023-10-10.md",
+    "Project Meeting.md",
     "Evaluation Mini Game.md",
+    "LaTeX Docs Phase 2.md",
+    "Implementing Database.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
-    "100 words Response.md",
     "Phase 2 Proposal/Phase2 Proposal.pdf",
+    "LaTeX.md",
     "Core Ideas.canvas",
+    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
+    "Phase2 Proposal.synctex(busy)",
+    "100 words Response.md",
     "Phase2 Proposal.out",
     "2023-09-27.md",
     "Deadlines.md",
@@ -238,16 +197,13 @@
     "Phase2 Proposal.aux",
     "Phase2 Proposal.log",
     "Ramsey Response Email.md",
-    "LaTeX Docs Phase 2.md",
     "Untitled 2.canvas",
     "Phase2 Proposal.tex",
     "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
     "Phase 2 Proposal/Phase2 Proposal.tex",
     "Proposal/Sections/Core Deliverables.md",
-    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "IDEAS TO PUT ELSEWHERE.md",
     "Work plan.md",
-    "LaTeX.md",
     "Proposal/Sections/Evaluation.md",
     "Introduction and description.md",
     "Success criterion.md",
@@ -259,8 +215,6 @@
     "Proposal/Proposal Big Draft.md",
     "Phase 2 Draft.canvas",
     "CST Part II Briefing.md",
-    "Ramsey Email.md",
-    "Starting Point.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Images/Pasted image 20230926154955.png",

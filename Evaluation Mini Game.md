@@ -27,3 +27,5 @@ where a group near each pother in college use this to trakc items etc? bit borin
 
 
 https://arxiv.org/pdf/2210.14702.pdf MOR RESOURCES
+
+So are AirTags completely useless in tracking your stolen items? Seems like thieves immediately know the bike or camera bag they stole has a tracker in it, make it beep, and then toss it, right?

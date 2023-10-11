@@ -39,3 +39,32 @@ hyperref
 
 
 \mathrm around words in mathmode
+
+
+graphicx package
+
+large disagrams interfere with page breaking
+
+#### USE FIGURE ENVIRONMENT
+
+Include caption label and graphic
+
+This can be moved around to a space it fits without worrying where and all relevant infor will be by it
+
+RERUN to get cross-referencws right??
+
+latex is broken
+
+use makefile?
+
+xfig  - difficult for windows avoid if possible
+
+Letex bibliography cite 
+
+indicate nmber of digits required - will chose indentation correctly
+
+## Julia
+
+plots might be useful
+
+compile any type no type dec for functions
