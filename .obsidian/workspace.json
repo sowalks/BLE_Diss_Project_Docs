@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ramsey Proposal 2 Comments.md",
+                "file": "100 words Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,12 +101,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Meeting.md",
+                "file": "100 words Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Meeting.md",
+                "file": "100 words Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Meeting.md"
+                "file": "100 words Response.md"
               }
             }
           }
@@ -184,23 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d85bc087d925c745",
+  "active": "cafd8a15ecfd5440",
   "lastOpenFiles": [
     "Phase2 Proposal.synctex(busy)",
-    "Phase 2 Proposal Questions.md",
-    "Project Meeting.md",
+    "Work plan.md",
+    "LaTeX Docs Phase 2.md",
+    "2023-09-27.md",
+    "Proposal/Sections/Core Deliverables.md",
     "Ramsey Proposal 2 Comments.md",
+    "Evaluation Mini Game.md",
+    "Project Meeting.md",
+    "Phase 2 Proposal Questions.md",
     "Success criterion#.md",
     "Untitled.canvas",
-    "Work plan.md",
     "Starting Point Draft Proposal.md",
     "Deadlines.md",
     "Untitled 3.canvas",
     "Core Ideas.canvas",
     "proposalform.pdf",
     "2023-10-10.md",
-    "Evaluation Mini Game.md",
-    "LaTeX Docs Phase 2.md",
     "Implementing Database.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Phase 2 Proposal/Phase2 Proposal.pdf",
@@ -208,7 +209,6 @@
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "100 words Response.md",
     "Phase2 Proposal.out",
-    "2023-09-27.md",
     "Phase2 Proposal.synctex.gz",
     "Phase2 Proposal.pdf",
     "Phase2 Proposal.aux",
@@ -217,7 +217,6 @@
     "Untitled 2.canvas",
     "Phase2 Proposal.tex",
     "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
-    "Proposal/Sections/Core Deliverables.md",
     "IDEAS TO PUT ELSEWHERE.md",
     "Proposal/Sections/Evaluation.md",
     "Introduction and description.md",
