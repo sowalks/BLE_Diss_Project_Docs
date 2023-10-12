@@ -1,7 +1,7 @@
 
 Sounds change 
 
-My project will develop a prototyp of a demonstration n system - clear own system
+My project will develop a prototype of a demonstration n system - clear own system
 
 data collection tool to explore more algorithms
 
@@ -24,11 +24,11 @@ accidental interference
 
 range and time bubble to be effective not overkill disrupting others
 
-moving in motion??
+
 
 Parameterisation - in reality 
 
-phones that always locate tags - have estimate where they are - tag reprot where phone is
+phones that always locate tags – have estimate where they are - tag reports where phone is
 
 
 more levels - phone itself can have a big error
@@ -124,7 +124,7 @@ work plan
 
 MAKE A GANTT CHART
 
-have tags know what an inhibitor is and not send it on!!
+have phones know what an inhibitor is and not send tags on!! - get inhibitor id list from server.
 
 
 Resources running a server - cloud providers google amazon azure - freebie servers

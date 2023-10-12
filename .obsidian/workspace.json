@@ -11,14 +11,11 @@
             "id": "cafd8a15ecfd5440",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Core Ideas.canvas",
-                "viewState": {
-                  "x": -838.9477758262393,
-                  "y": 3632.211023498194,
-                  "zoom": -0.6445106493552318
-                }
+                "file": "Ramsey Proposal 2 Comments.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -45,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a69d5d677877fca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2 Proposal Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Ideas.canvas",
+                "file": "Project Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Ideas.canvas",
+                "file": "Project Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Ideas.canvas"
+                "file": "Project Meeting.md"
               }
             }
           }
@@ -173,25 +184,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cafd8a15ecfd5440",
+  "active": "d85bc087d925c745",
   "lastOpenFiles": [
-    "proposalform.pdf",
-    "Untitled 3.canvas",
-    "2023-10-10.md",
+    "Phase2 Proposal.synctex(busy)",
+    "Phase 2 Proposal Questions.md",
     "Project Meeting.md",
+    "Ramsey Proposal 2 Comments.md",
+    "Success criterion#.md",
+    "Untitled.canvas",
+    "Work plan.md",
+    "Starting Point Draft Proposal.md",
+    "Deadlines.md",
+    "Untitled 3.canvas",
+    "Core Ideas.canvas",
+    "proposalform.pdf",
+    "2023-10-10.md",
     "Evaluation Mini Game.md",
     "LaTeX Docs Phase 2.md",
     "Implementing Database.md",
     "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
     "Phase 2 Proposal/Phase2 Proposal.pdf",
     "LaTeX.md",
-    "Core Ideas.canvas",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-    "Phase2 Proposal.synctex(busy)",
     "100 words Response.md",
     "Phase2 Proposal.out",
     "2023-09-27.md",
-    "Deadlines.md",
     "Phase2 Proposal.synctex.gz",
     "Phase2 Proposal.pdf",
     "Phase2 Proposal.aux",
@@ -200,23 +217,16 @@
     "Untitled 2.canvas",
     "Phase2 Proposal.tex",
     "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
-    "Phase 2 Proposal/Phase2 Proposal.tex",
     "Proposal/Sections/Core Deliverables.md",
     "IDEAS TO PUT ELSEWHERE.md",
-    "Work plan.md",
     "Proposal/Sections/Evaluation.md",
     "Introduction and description.md",
     "Success criterion.md",
     "Proposal/Sections/Success Criteria.md",
     "Proposal/Final Proposal.md",
-    "Starting Point Draft Proposal.md",
     "Resource declaration.md",
-    "Proposal/Proposal Draft (100 words).md",
-    "Proposal/Proposal Big Draft.md",
     "Phase 2 Draft.canvas",
-    "CST Part II Briefing.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",
     "Images/Pasted image 20230926154058.png",

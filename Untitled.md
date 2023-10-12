@@ -1,1 +1,0 @@
-Preventative tool vs reactive after stalking has taken place for a period of time
