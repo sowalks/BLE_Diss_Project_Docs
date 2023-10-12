@@ -1,4 +1,3 @@
-Is aws 750 hours appropriate for server.
 
 Do I count ramsey as special resources?
 

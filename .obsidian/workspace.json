@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extensions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 words Response.md",
+                "file": "Phase 2 Proposal Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 words Response.md",
+                "file": "Phase 2 Proposal Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 words Response.md"
+                "file": "Phase 2 Proposal Questions.md"
               }
             }
           }
@@ -183,9 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cafd8a15ecfd5440",
+  "active": "a69d5d677877fca6",
   "lastOpenFiles": [
+    "Project Propos.pdf",
     "Phase2 Proposal.synctex(busy)",
+    "100 words Response.md",
+    "Project Proposal.pdf",
     "Work plan.md",
     "LaTeX Docs Phase 2.md",
     "2023-09-27.md",
@@ -207,7 +212,6 @@
     "Phase 2 Proposal/Phase2 Proposal.pdf",
     "LaTeX.md",
     "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-    "100 words Response.md",
     "Phase2 Proposal.out",
     "Phase2 Proposal.synctex.gz",
     "Phase2 Proposal.pdf",
@@ -216,7 +220,6 @@
     "Ramsey Response Email.md",
     "Untitled 2.canvas",
     "Phase2 Proposal.tex",
-    "Phase 2 Proposal/Phase2 Proposal.synctex.gz",
     "IDEAS TO PUT ELSEWHERE.md",
     "Proposal/Sections/Evaluation.md",
     "Introduction and description.md",

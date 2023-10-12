@@ -6,7 +6,7 @@
 \begin{document}
 \title{Bluetooth Tracking Privacy Bubble}
 \author{Sophie Walker}
-\date{5 October 2023}
+\date{11 October 2023}
 \maketitle
 \thispagestyle{empty}
 \section{Introduction}
@@ -14,7 +14,7 @@
 
 
 
-Bluetooth Low Energy (BLE) tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, stalkers can  maliciously use these to track their victims.  My project is to create a prototype of a similar tracking system and investigate the effectiveness of adding an antistalking `privacy bubble' feature. This involves having the system set tags as inhibitors or trackers. Tracking tags will function as regular tags so their owner can locate them and their items. However, if they are in the range of an inhibitor tag,  the owner will not receive the tracking tag's location. A privacy bubble means any tracking tags near in time or distance ranges to an inhibitor will not report their location back to their owner. This has the potential to stop stalking as victims with inhibitors will prevent stalkers locating their planted trackers.
+Bluetooth Low Energy (BLE) tags such as AirTags or Tile Trackers are useful tools for locating personal items. However, stalkers can  maliciously use these to track their victims.  My project is to create a prototype of a similar tracking system and investigate the effectiveness of adding an antistalking `privacy bubble' feature. This involves having the system set tags as inhibitors or trackers. Tracking tags will function as regular tags so their owner can locate them and their items. However, if they are in the range of an inhibitor tag,  the owner will not receive the tracking tag's location. A privacy bubble means any tracking tags near in time or distance ranges to an inhibitor will not report their location back to their owner. This has the potential to stop stalking as inhibitors   will prevent stalkers locating any planted trackers on their victim.
 \par
 Additionally, this will give people peace of mind that stalking will be stopped even before other tools can detect it, as this will block any tracking tags nearby. Benign tags will not be permanently co-located with inhibitor tags as they move through the environment and will eventually move away from them. So the blocking should not be disruptive, whilst true stalking is prevented. This can also prevent annoyances from false positive stalker detection that picks up tags owned by friends, family or colleagues, as this mechanism works without requiring notifications.
 \par
@@ -26,37 +26,37 @@ Currently, there are other stalking prevention features in similar devices, but 
 \section{Description of Project}
 
 
-My project does not aim to create new tags or hardware, instead, I want to prototype the system used to interact with tags, and then I will alter it to implement inhibitor tags and modes on preexisting tags. This will provide additional scope to change the tags modes, find lost inhibiting tags and provide anti-stalking to users who already own these tags.
+My project does not aim to create new tags or hardware, instead, I want to prototype the system used to interact with tags, and then I will implement inhibitor tags and modes on the preexisting system. This will provide additional scope to change the tag's modes, find lost inhibiting tags and provide anti-stalking to users who already own these tags as they can modify tag type.
 The tracking system involves a user-facing app and a server to communicate the tag's location.
 
 
 So, this project's key items are:
 \begin{itemize}
-\item{ {\bf The App:}This will be modified from a current app (I am looking into the most suitable one at the moment for my final proposal, - e.g.: \href{https://github.com/neXenio/BLE-Indoor-Positioning}{this}) ???????????????? that can scan for BLE tags and obtain their Received Signal Strength Indicator (RSSI). I will adapt it to provide data packets of information including RSSI, phone position estimate, timestamp, and any other required information to the server. This can be further modified in extensions which can improve locating tags and providing security.}
+\item{ {\bf The App:} This will be modified from a current open source app  that can scan for BLE tags and obtain their Received Signal Strength Indicator (RSSI). I will adapt it to provide data packets of information including RSSI, phone position estimate, timestamp, and any other required information to the server. The app can be further modified in extensions which can improve locating tags and providing security.}
 
 
 \item{{\bf The Server:} I will build this using Python Flask and MySQL to create a database which stores the tag IDs, which mode they are registered as, their location, and if they are inhibited. It will also calculate the location of tags and which tags are in range of inhibitors to block these. Additionally, it will share the last known location of trackers back to the user.}
 
+\end{itemize}
 
 I can also solve difficulties regarding the imperfect BLE system and investigate if I can create one that can cope with the interference of the BLE signal through people, multipath fading and other spurious results \cite{AccuracyBLE}. This will also have to solve if tags are in range of each other, but detected by separate devices, or if a tracking tag is detected before the nearby inhibitor is. These are a few of the issues my system should aim to be robust against.
 
 
-I can evaluate the system based on the false positive rates, false negative rates, and any other stats of interest for various settings and scenarios. This will start with an empty environment without obstacles at close ranges which will test the basic system in an environment, such as an empty outside area, that should reduce the effect of inaccurate distance calculations and purely test the base system. I could then introduce obstacles and other environments to evaluate the effectiveness of the inhibitor tags in different situations which situations with basic location calculations. I could potentially design an experiment based on the usability of this system, and whether introducing these inhibitor tags is an effective way to reduce the risk/impact/ease of stalking.
+I can evaluate the system based on the false positive rates, false negative rates, and any other stats of interest for various settings and scenarios. This will start with an empty environment without obstacles at close ranges which will test the basic system in an environment, such as an empty outside area, that should reduce the effect of inaccurate distance calculations and purely test the base system. I could then introduce obstacles and other environments to evaluate the effectiveness of the inhibitor tags in different situations and which situations this could work with the basic location calculations. I could potentially design an experiment based on the usability of this system, and whether introducing these inhibitor tags is an effective way to reduce the risk/impact/ease of stalking.
 
 
 
 
-\end{itemize}
 
 
 
 
 \section{Success Criteria}
 \begin{itemize}
-\item{I will produce a modified app that will register BLE tags in one of two modes and scan for nearby tags. It also needs to communicate with the server to share the ID and RSSI of any detected tags and the phone's current location.}
+\item{I will produce a modified app that will register BLE tags in one of two modes and scan for nearby tags. It also needs to communicate with the server to share at least the ID and RSSI of any detected tags and the phone's current location.}
 
 
-\item{I will produce a server that will receive reports about tags detected by the app. It will use this to identify the mode and locate all tags. The server will find and inhibit any tracking tags it can colocate within an inhibitor's time and distance bounds. The server will send the owner's app the location of their uninhibited tags. }
+\item{I will produce a server that will receive reports about tags detected by the app. It will use this to identify the mode and locate all tags. The server will find and inhibit any tracking tags it can colocate within an inhibitor's time and distance bounds. The server will send the owner's app the location of their uninhibited tag. }
 
 
 \item{The time and distance bounds will be configurable on the server. I will investigate the appropriate ranges with experiments based on the accuracy of these bounds. I will explore the tradeoff between preventing stalking and disruption to other users with these bounds.}
@@ -90,27 +90,22 @@ I can evaluate the system based on the false positive rates, false negative rate
 
 
 This will be completed in Java/Kotlin (based on the most appropriate app chosen) which I have used in the OOP course/ which I have not used except for a basic tutorial this summer.
-I will also use Python Flask to build the webserver, which I have used briefly before in the Group Project last year. I have used SQL in databases, but not MySQL specifically. I have not previously used tools or libraries related to BLE tracking tags before.
-
-
+I will also use Python Flask to build the webserver, which I have used briefly before in the Group Project last year. I have used SQL in the databases course, but not MySQL specifically. I have not previously used tools or libraries related to BLE tracking tags before.
+\pagebreak
 \section{Work Plan}
 
-In the timeline, extensions can be switched based on what is most appropriate for the project at that stage, having completed my preparation and core implementation.??????????????
-
-\pagebreak
-\section{Time Line}
 \begin{table}[!ht]
 \raggedleft
 \begin{tabular}{|l|l|p{7cm}|p{7cm}|}
 \hline
 \textbf{Week} & \textbf{Start} & \textbf{Work Package} & \textbf{Deliverable} \\ \hline
-\textbf{1-2} & 16/10/2023 & Learn to use and edit BLE libraries. Set up and learn to use Flask with MySQL. Do some basic tests and evaluation of received tracking tags with a standard app. Set up a project for the app to modify & Write up of completed experiments and limitations that could affect this project. Write up the understanding of modifications and requirements of the app. \\ \hline
+\textbf{1-2} & 16/10/2023 & Set up existing scanner app, explore and test unchanged. Set up and learn to use MySQL with Flask. Do some basic tests and evaluation of received tracking tags with a standard app. & Write up of completed experiments and limitations that could affect this project. Write up the understanding of modifications and requirements of the app. \\ \hline
 \textbf{3-4} & 30/10/2023 & Begin Draft of Introduction Chapter of Dissertation. Create a document detailing my implementation plan and specification & Full Specification of the System. Start of Draft Introduction Chapter. \\ \hline
 \textbf{5-6} & 13/11/2023 & Draft Preparation Chapter. Implement basic modifications to the app and set up the web server. & The app will be able to detect tags and share specified data with the server. Start of Draft Preparation Chapter. \\ \hline
 \textbf{7-8} & 27/11/2023 & The Web server should have locating tags implemented and the app needs to be able to receive locations of owned tag(s) whether as basic coordinates or if there is time in a usable map. The UoA deadline is on the 1st. Mainly use the second week for this. End of Michaelmas. & The basic tracking system will be complete, so evidence basic testing that tags can be tracked in an ideal environment. \\ \hline
 \textbf{9-10} & 11/12/2023 & Implement registering inhibitor tags on app. Implement colocating inhibitor tags with tracker tags, and blocking their location. & Completed Inhibitor system. Evidence of basic testing of Inhibitor system in an ideal environment. \\ \hline
 \textbf{11-12} & 25/12/2023 & Part of this package will be spent on the Christmas Holiday. I will start the implementation draft. If core implementation has not been completed, finish here. Otherwise, improve the Introduction and Preparation chapter Drafts. & Any Previous Unfinished Deliverables. Start of Implementation Draft Chapter. \\ \hline
-\textbf{13-14} & 08/01/2024 & Start of Lent term. Plan Experiments and Evaluation tasks to complete and record. Create a draft Progress Report and Presentation & An evaluation plan describing planned experiments and data to be collected. Draft Progress Report and Presentation. \\ \hline
+\textbf{13-14} & 08/01/2024 & Start of Lent term. Plan experiments and evaluation tasks to complete and record. Create a draft Progress Report and Presentation & An evaluation plan describing planned experiments and data to be collected. Draft Progress Report and Presentation. \\ \hline
 \textbf{15-16} & 22/01/2024 & Completed Progress Report and Presentation. Time permitting, implement Security Extension to introduce ID cycling and encryption to the system. & Completed Progress Report and Presentation. Time permitting implemented Security Extension. \\ \hline
 \textbf{17-18} & 05/02/2024 & Complete evaluation experiments. Begin the Evaluation Chapter with recorded results from experiments. & Draft of Evaluation Chapter with recorded results from experiments. \\ \hline
 \textbf{19-20} & 19/02/2024 & Improve implementation and Evaluation Chapters. Time Permitting, finish incomplete extension or implement improved methods of locating tags based on an epoch of measurements. & Improved Draft of Implementation and Evaluation Chapters. Time Permitting, implemented Improved Locating extension. \\ \hline
@@ -121,25 +116,26 @@ In the timeline, extensions can be switched based on what is most appropriate fo
 \textbf{29-30} & 29/04/2024 & Final improvements and Submission of Dissertation. & Submit Dissertation \\ \hline
 \end{tabular}
 \end{table}
+
+In the timeline, extensions can be switched based on which is most appropriate for the project at that stage, given the completed preparation and core implementation.
+
+
 \section{Resource Declaration}
 
 
 The resources that this project requires are BLE tracking tags to test and create the inhibitor and tracking system and
 Android phones are required to detect the tags.
 Both of these will be provided by Dr.~Ramsey Faragher.
-A contingency is to simulate BLE beacons on my laptop and use my personal phone, although they have already been ordered so this should not be the case.
-I will need to host the server for a longer time period than I can with my own devices. I will use the AWS free tier to host my server and database. In case this is not sufficient or there are other issues I will use the Student-Run Computing Facility's free hosting. A final contingency for longer experiments is to locally record the timestamps and contents the app would send to the server, then later replay them to my personal laptop to test how the system would have responded.
+ Although these have already been ordered, a final contingency is to simulate BLE beacons on my laptop and use my personal phone.
+I will need to host the server for a longer time period than I can with my own devices. I will use the Azure for students to host my server and database as this will give me 750hr per month for free. If any costs are accidentally incurred, this will be covered by the \$100 free credit for students. If there are issues with this, I will use the Student-Run Computing Facility's free hosting. A final contingency for longer experiments is to locally record the timestamps and data the app should have sent the server. I would later replay them to my personal laptop to test how the system would have responded.
 
 
-I will use my personal laptop to build this, with another personal laptop as a contingency. I will backup all code to GitHub and use its version control. Any documents created I will back up to GitHub. I am using TeXworks and Obsidian to write these.
-
-
-I accept full responsibility for this machine and I have made contingency plans to protect myself against hardware and/or software failure.
+I will use my personal laptop to build this, with another personal laptop as a contingency. I will backup all code to GitHub and use its version control. Any documents created I will back up to GitHub. I am using TeXworks and Obsidian to write these. I accept full responsibility for this machine and I have made contingency plans to protect myself against hardware and/or software failure.
 
 
 \begin{thebibliography}{9}
 \frenchspacing
-\bibitem{Failuresof ASProtocols} K.I. Turk, A. Hutchings, A. Beresford, ``Can’t Keep Them Away: The failures of anti-stalking protocols in personal item tracking devices" to appear in the proceedings of the Security Protocols Workshop, March 2023
+\bibitem{Failuresof ASProtocols} K.I. Turk, A. Hutchings, A. Beresford, ``Can’t Keep Them Away: The failures of anti-stalking protocols in personal item tracking devices" to appear in the proceedings of the Security Protocols Workshop, March 2023.
 
 
 \bibitem{AccuracyBLE} Faragher, R., Harle, R., ``An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications," Proceedings of the 27th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2014), Tampa, Florida, September 2014, pp. 201-210.
