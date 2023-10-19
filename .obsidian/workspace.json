@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "628285e18dc59368",
+        "id": "6c561f6195355af3",
         "type": "tabs",
         "children": [
           {
-            "id": "cafd8a15ecfd5440",
+            "id": "d2de671798a1ca3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 words Response.md",
+                "file": "WorkPlans/Work Package 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7134589e9e99482f",
+            "id": "40877533aaf4174a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluation Mini Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85bc087d925c745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Meeting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69d5d677877fca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phase 2 Proposal Questions.md",
+                "file": "WorkPlans/To Do Lists/2023-10-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phase 2 Proposal Questions.md",
+                "file": "WorkPlans/To Do Lists/2023-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phase 2 Proposal Questions.md",
+                "file": "WorkPlans/To Do Lists/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phase 2 Proposal Questions.md"
+                "file": "WorkPlans/To Do Lists/2023-10-15.md"
               }
             }
           }
@@ -185,49 +160,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a69d5d677877fca6",
+  "active": "40877533aaf4174a",
   "lastOpenFiles": [
-    "Project Propos.pdf",
-    "Phase2 Proposal.synctex(busy)",
-    "100 words Response.md",
-    "Project Proposal.pdf",
-    "Work plan.md",
-    "LaTeX Docs Phase 2.md",
-    "2023-09-27.md",
-    "Proposal/Sections/Core Deliverables.md",
-    "Ramsey Proposal 2 Comments.md",
-    "Evaluation Mini Game.md",
-    "Project Meeting.md",
-    "Phase 2 Proposal Questions.md",
-    "Success criterion#.md",
-    "Untitled.canvas",
-    "Starting Point Draft Proposal.md",
+    "WorkPlans/Work Package 1.md",
+    "WorkPlans/To Do Lists/2023-10-15.md",
+    "WorkPlans/To Do Lists/2023-09-27.md",
+    "WorkPlans/To Do Lists/2023-10-10.md",
+    "WorkPlans/Final Project Proposal 1.pdf",
+    "Proposal/100 words Response.md",
     "Deadlines.md",
-    "Untitled 3.canvas",
-    "Core Ideas.canvas",
-    "proposalform.pdf",
-    "2023-10-10.md",
-    "Implementing Database.md",
-    "Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
-    "Phase 2 Proposal/Phase2 Proposal.pdf",
-    "LaTeX.md",
-    "Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
-    "Phase2 Proposal.out",
-    "Phase2 Proposal.synctex.gz",
     "Phase2 Proposal.pdf",
-    "Phase2 Proposal.aux",
-    "Phase2 Proposal.log",
-    "Ramsey Response Email.md",
+    "Proposal/Final Project Proposal.pdf",
+    "Phase2 Proposal.synctex(busy)",
+    "Proposal/Project Proposal.pdf",
+    "Other Resources and Ideas/CST Part II Briefing.md",
+    "Other Resources and Ideas/Implementing Database.md",
+    "Proposal/Resource declaration.md",
+    "Motivation.md",
+    "Papers and Notes of Read/Security Talk Notes.md",
+    "Proposal/Work plan.md",
+    "Proposal/Core Ideas.canvas",
+    "WorkPlans",
+    "Other Resources and Ideas",
+    "Meetings",
+    "Papers and Notes of Read/LaTeX Docs Phase 2.md",
+    "Proposal/Phase 2 Draft.canvas",
+    "Other Resources and Ideas/IDEAS TO PUT ELSEWHERE.md",
+    "WorkPlans/To Do Lists",
+    "Proposal/Ramsey Email.md",
+    "Proposal/proposalform.pdf",
+    "Proposal/Phase 2 Proposal/Success criterion#.md",
+    "Proposal/Evaluation Mini Game.md",
+    "Meetings/Project Meeting.md",
+    "Proposal/Phase 2 Proposal Questions.md",
+    "Proposal/Sections/Core Deliverables.md",
+    "Proposal/Phase 2 Proposal/Ramsey Proposal 2 Comments.md",
+    "Untitled.canvas",
+    "Proposal/Phase 2 Proposal/Starting Point Draft Proposal.md",
+    "Untitled 3.canvas",
+    "Papers and Notes of Read/Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
+    "Papers and Notes of Read/LaTeX.md",
+    "Papers and Notes of Read/Notes on Ramsey Papers/Location FingerPrinting With Bluetooth Low Energy Beacons.md",
     "Untitled 2.canvas",
-    "Phase2 Proposal.tex",
-    "IDEAS TO PUT ELSEWHERE.md",
-    "Proposal/Sections/Evaluation.md",
-    "Introduction and description.md",
-    "Success criterion.md",
-    "Proposal/Sections/Success Criteria.md",
-    "Proposal/Final Proposal.md",
-    "Resource declaration.md",
-    "Phase 2 Draft.canvas",
     "Untitled 1.canvas",
     "Images/Pasted image 20230926154955.png",
     "Images/Pasted image 20230926154417.png",

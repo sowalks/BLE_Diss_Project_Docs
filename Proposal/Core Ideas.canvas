@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"053f1842a3052f87","type":"file","file":"Notes on Ramsey Papers/COVID Talk.md","x":240,"y":-120,"width":400,"height":400},
-		{"id":"30052e8ade3c05af","type":"file","file":"Ramsey Email.md","x":-140,"y":0,"width":480,"height":400},
+		{"id":"053f1842a3052f87","type":"file","file":"Papers and Notes of Read/Notes on Ramsey Papers/COVID Talk.md","x":240,"y":-120,"width":400,"height":400},
+		{"id":"30052e8ade3c05af","type":"file","file":"Proposal/Ramsey Email.md","x":-140,"y":0,"width":480,"height":400},
 		{"id":"7a2baed4f77c9f7e","type":"text","text":"Hoe should project proposal fist be structured\n\nWhat where wht when etc\n\nanswers main questions\nWhen, where, what, who, why","x":-109,"y":616,"width":250,"height":60},
 		{"id":"10e6a36b8be2d7ee","type":"text","text":"Inhibition works ","x":-140,"y":780,"width":250,"height":60},
-		{"id":"bbbe665a66cb702b","type":"file","file":"Starting Point.md","x":140,"y":480,"width":900,"height":760},
+		{"id":"bbbe665a66cb702b","type":"file","file":"Proposal/Phase 2 Proposal/Starting Point.md","x":140,"y":480,"width":900,"height":760},
 		{"id":"e2dd28d4ab79ece8","type":"text","text":"- RxBluetoothKit\n- React-native-ble-plx\n- React-native-ble-manager","x":830,"y":119,"width":490,"height":281},
-		{"id":"1672aadc235595db","type":"file","file":"IDEAS TO PUT ELSEWHERE.md","x":-1360,"y":1091,"width":1161,"height":1509},
-		{"id":"da5fe62217af4bb6","type":"file","file":"2023-09-27.md","x":-1718,"y":160,"width":717,"height":931},
+		{"id":"1672aadc235595db","type":"file","file":"Other Resources and Ideas/IDEAS TO PUT ELSEWHERE.md","x":-1360,"y":1091,"width":1161,"height":1509},
+		{"id":"da5fe62217af4bb6","type":"file","file":"WorkPlans/To Do Lists/2023-09-27.md","x":-1718,"y":160,"width":717,"height":931},
 		{"id":"3f065c1e39f17d8e","type":"file","file":"Proposal/Sections/Core Deliverables.md","x":-1001,"y":80,"width":680,"height":840},
 		{"id":"e84d7d7803acad90","x":-52,"y":-291,"width":250,"height":60,"type":"text","text":""},
-		{"id":"74448be8e74b6a9c","x":-309,"y":-491,"width":589,"height":451,"type":"file","file":"Ramsey Response Email.md"}
+		{"id":"74448be8e74b6a9c","x":-309,"y":-491,"width":589,"height":451,"type":"file","file":"Meetings/Ramsey Response Email.md"}
 	],
 	"edges":[
 		{"id":"1a8caa73519513ea","fromNode":"10e6a36b8be2d7ee","fromSide":"left","toNode":"3f065c1e39f17d8e","toSide":"right"},
