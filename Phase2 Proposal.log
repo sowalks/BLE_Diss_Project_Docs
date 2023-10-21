@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  15 OCT 2023 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  20 OCT 2023 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,15 +222,15 @@ LaTeX Font Info:    ... okay on input line 6.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.7pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -264,22 +264,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 99.
+(Font)              <7> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 99.
+(Font)              <5> on input line 100.
 
-Underfull \hbox (badness 2662) in paragraph at lines 106--106
+Underfull \hbox (badness 2662) in paragraph at lines 107--107
 \OT1/cmr/m/n/10 Im-ple-ment colo-cat-ing in-hibitor tags with
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 110--110
+Underfull \hbox (badness 1701) in paragraph at lines 111--111
 []\OT1/cmr/m/n/10 Complete eval-u-a-tion ex-per-i-ments. Be-gin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []\OT1/cmr/m/n/10 Improve im-ple-men-ta-tion and Eval-u-a-tion
+ []
+
+
+Overfull \hbox (30.06294pt too wide) in paragraph at lines 100--119
+ [][]
  []
 
 [3] [4] (./Phase2 Proposal.aux)
@@ -297,14 +302,14 @@ Here is how much of TeX's memory you used:
  29525 multiletter control sequences out of 15000+600000
  562352 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,912b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,912b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
 /cm-super/sfrm1000.pfb>
-Output written on "Phase2 Proposal.pdf" (4 pages, 98950 bytes).
+Output written on "Phase2 Proposal.pdf" (4 pages, 99033 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
