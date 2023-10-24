@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d4d54ca267889743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference App Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "26ce239d0aeb2d17",
             "type": "leaf",
             "state": {
@@ -30,9 +42,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d068dd627f8b7c0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6b98df2375eb59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de97a318f36258de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "351b639781dc69e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkPlans/To Do Lists/2023-10-21.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkPlans/To Do Lists/2023-10-21.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkPlans/To Do Lists/2023-10-21.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,11 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26ce239d0aeb2d17",
+  "active": "351b639781dc69e3",
   "lastOpenFiles": [
-    "WorkPlans/Work Package 1.md",
+    "Images/Pasted image 20231023101533.png",
+    "Untitled.md",
+    "VM.md",
+    "Images/Pasted image 20231022093857.png",
+    "Images/Pasted image 20231021145007.png",
+    "Reference App Structure.md",
     "WorkPlans/To Do Lists/2023-10-21.md",
     "App Features to Add.md",
+    "WorkPlans/Work Package 1.md",
     "Final Project Proposal 1.pdf",
     "Diss_Template.synctex(busy)",
     "Proposal/Final Project Proposal.pdf",
@@ -195,12 +253,8 @@
     "Meetings/Project Meeting.md",
     "Proposal/Phase 2 Proposal Questions.md",
     "Proposal/Sections/Core Deliverables.md",
-    "Proposal/Phase 2 Proposal/Ramsey Proposal 2 Comments.md",
     "Untitled.canvas",
-    "Proposal/Phase 2 Proposal/Starting Point Draft Proposal.md",
     "Untitled 3.canvas",
-    "Papers and Notes of Read/Notes on Ramsey Papers/An Analysis of the Accuracy of Bluetooth Low Energy for Indoor Positioning Applications.md",
-    "Papers and Notes of Read/LaTeX.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Images/Pasted image 20230926154955.png",
@@ -210,8 +264,6 @@
     "Images/Pasted image 20230926150354.png",
     "Images/Pasted image 20230926143734.png",
     "Images/Pasted image 20230926143524.png",
-    "Images/Pasted image 20230926143046.png",
-    "Images/Pasted image 20230926142947.png",
-    "Images/Pasted image 20230926140934.png"
+    "Images/Pasted image 20230926143046.png"
   ]
 }
