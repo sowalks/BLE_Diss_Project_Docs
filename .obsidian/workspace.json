@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2de671798a1ca3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "App Features to Add.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4d54ca267889743",
             "type": "leaf",
             "state": {
@@ -37,54 +25,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkPlans/To Do Lists/2023-10-21.md",
+                "file": "WorkPlans/Work Package 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d068dd627f8b7c0e",
+            "id": "04cd287a85b85ecd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6b98df2375eb59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "VM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de97a318f36258de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "351b639781dc69e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1106.4854740483272,
+                  "y": 59.65767939284609,
+                  "zoom": -0.0033333333333333335
+                }
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae2f148bd3219544",
@@ -150,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -211,17 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "351b639781dc69e3",
+  "active": "04cd287a85b85ecd",
   "lastOpenFiles": [
-    "Images/Pasted image 20231023101533.png",
-    "Untitled.md",
+    "WorkPlans/Work Package 1.md",
+    "Reference App Structure.md",
+    "Untitled.canvas",
+    "Key Words.md",
+    "Papers and Notes of Read/Literature Search Part II.md",
+    "Meetings/Ramsey Response Email.md",
+    "Meetings/Meeting on 29-09-23.md",
+    "WorkPlans/To Do Lists/2023-10-21.md",
+    "WorkPlans/To Do Lists/2023-09-27.md",
     "VM.md",
+    "Untitled 1.md",
+    "Images/Pasted image 20231024143419.png",
+    "Untitled.md",
+    "Images/Pasted image 20231023101533.png",
     "Images/Pasted image 20231022093857.png",
     "Images/Pasted image 20231021145007.png",
-    "Reference App Structure.md",
-    "WorkPlans/To Do Lists/2023-10-21.md",
     "App Features to Add.md",
-    "WorkPlans/Work Package 1.md",
     "Final Project Proposal 1.pdf",
     "Diss_Template.synctex(busy)",
     "Proposal/Final Project Proposal.pdf",
@@ -233,7 +205,6 @@
     "Diss_Template.pdf",
     "Diss_Template.out",
     "Diss_Template.aux",
-    "WorkPlans/To Do Lists/2023-09-27.md",
     "WorkPlans/To Do Lists/2023-10-10.md",
     "Proposal/100 words Response.md",
     "Deadlines.md",
@@ -248,12 +219,6 @@
     "Proposal/Phase 2 Draft.canvas",
     "Other Resources and Ideas/IDEAS TO PUT ELSEWHERE.md",
     "Proposal/Ramsey Email.md",
-    "Proposal/Phase 2 Proposal/Success criterion#.md",
-    "Proposal/Evaluation Mini Game.md",
-    "Meetings/Project Meeting.md",
-    "Proposal/Phase 2 Proposal Questions.md",
-    "Proposal/Sections/Core Deliverables.md",
-    "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -262,8 +227,6 @@
     "Images/Pasted image 20230926154058.png",
     "Images/Pasted image 20230926150518.png",
     "Images/Pasted image 20230926150354.png",
-    "Images/Pasted image 20230926143734.png",
-    "Images/Pasted image 20230926143524.png",
-    "Images/Pasted image 20230926143046.png"
+    "Images/Pasted image 20230926143734.png"
   ]
 }

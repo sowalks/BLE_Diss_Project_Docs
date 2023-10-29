@@ -5,6 +5,7 @@
 - BeaconReferenceApplication.kt
 - MainActivity.kt
 
+https://altbeacon.github.io/android-beacon-library/javadoc/org/altbeacon/beacon/BeaconManager.html
 
 ## PermissionsActivity.kt
 

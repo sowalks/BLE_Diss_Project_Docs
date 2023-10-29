@@ -6,7 +6,7 @@ Add a logging function to create csv of what has been detected.
 
 - do an experiment by walking for an hour around the lab and log how many devices are found and what strengths in a lecture - potential to have more airtags here than a regular busy area.
 - Repeat walking down kings parade
-- Collect RSSIs detected, also.
+- Collect RSSIs detected, also. 
 - Reoccuring tags?
 
 #### Set up and learn to use MySQL with Flask. 
