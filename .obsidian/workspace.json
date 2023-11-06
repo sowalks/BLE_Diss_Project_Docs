@@ -35,19 +35,78 @@
             "id": "04cd287a85b85ecd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1106.4854740483272,
-                  "y": 59.65767939284609,
-                  "zoom": -0.0033333333333333335
-                }
+                "file": "Final Project Proposal 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "c040317d983cc413",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9df24850a860880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Package 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b44c15d99b18ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do = Experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "985ba340234f0ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cde3500e88957d41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff530aed84027098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modifications to App Only.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 298.5,
     "collapsed": true
   },
   "right": {
@@ -114,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Experiments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Experiments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Experiments.md"
               }
             }
           }
@@ -175,9 +234,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04cd287a85b85ecd",
+  "active": "985ba340234f0ada",
   "lastOpenFiles": [
     "WorkPlans/Work Package 1.md",
+    "Final Project Proposal 1.pdf",
+    "Modifications to App Only.md",
+    "Work Package 2.md",
+    "To Do = Experiment.md",
+    "Experiments.md",
     "Reference App Structure.md",
     "Untitled.canvas",
     "Key Words.md",
@@ -194,7 +258,6 @@
     "Images/Pasted image 20231022093857.png",
     "Images/Pasted image 20231021145007.png",
     "App Features to Add.md",
-    "Final Project Proposal 1.pdf",
     "Diss_Template.synctex(busy)",
     "Proposal/Final Project Proposal.pdf",
     "WorkPlans/Final Project Proposal 1.pdf",
@@ -213,12 +276,8 @@
     "Proposal/Resource declaration.md",
     "Motivation.md",
     "Papers and Notes of Read/Security Talk Notes.md",
-    "Proposal/Work plan.md",
     "Proposal/Core Ideas.canvas",
-    "Papers and Notes of Read/LaTeX Docs Phase 2.md",
     "Proposal/Phase 2 Draft.canvas",
-    "Other Resources and Ideas/IDEAS TO PUT ELSEWHERE.md",
-    "Proposal/Ramsey Email.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
