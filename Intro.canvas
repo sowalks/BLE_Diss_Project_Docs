@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0881f51a87593c71","type":"text","text":"","x":-376,"y":-288,"width":250,"height":60},
+		{"id":"62ac5d8dbbfc82fe","type":"file","file":"Introduction.md","x":-460,"y":-420,"width":840,"height":700},
+		{"id":"e492f4ec736aee58","type":"file","file":"Proposal/Final Project Proposal.pdf","x":-1020,"y":-340,"width":560,"height":460}
+	],
+	"edges":[]
+}
